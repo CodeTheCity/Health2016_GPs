@@ -1,0 +1,981 @@
+NHS Board / Practice Code,No. of GPs,Address Line 1,Address Line 2,Address Line 3,Address Line 4,Postcode,Telephone Number,List Size
+AYRSHIRE AND ARRAN,322,,,,,,,
+80005,9,South Beach Medical Centre,8 Harbour Street,Ardrossan,Ayrshire,KA22 8BS,01294463011,8591
+80010,4,Central Avenue Surgery,The Health Centre,6 Central Avenue,Ardrossan,KA22 7DX,01294463838,4088
+80058,6,Tam's Brig Surgery,107 New Road,Ayr,Ayrshire,KA8 8DD,01292262697,8528
+80062,4,The Surgery,9 Alloway Place,Ayr,Ayrshire,KA7 2AA,01292611835,5333
+80077,3,Dalblair Medical Practice,56 Dalblair Road,Ayr,Ayrshire,KA7 1UQ,01292 267432,2219
+80081,5,Barns Medical Practice,40 Dalblair Road,Ayr,Ayrshire,KA7 1UL,01292 281439,8907
+80096,8,Racecourse Road Medical Group,3 Racecourse Road,Ayr,Ayrshire,KA7 2DF,01292 886622,8767
+80109,11,The Cathcart Street Medical Practice,8 Cathcart Street,AYR,AYRSHIRE,KA7 1BJ,01292 264051,8021
+80113,5,The Fullarton Medical Practice,40 Dalblair Road,AYR,AYRSHIRE,KA7 1UL,01292 264260,7951
+80132,3,Ballantrae Medical Practice,30 Main Street,Ballantrae,Ayrshire,KA26 0NB,01465831302,1497
+80147,5,Beith Health Centre GP Practice,Beith Health Centre,Reform Street,Beith,KA15 2AE,01505502888,6167
+80166,5,Glencairn Medical Practice,Crosshouse Resource Centre,Annandale Gardens,Crosshouse,KA2 0LE,01563521506,7808
+80171,9,Tanyard Medical Practice,The Health Centre,2 Tanyard,Cumnock,KA18 1BF,01290 421157,12189
+80185,3,Dailly Medical Practice,The Surgery,"Back Road, Dailly",AYRSHIRE,KA26 9SH,01465811224,1318
+80202,5,Dalmellington Medical Practice,Dalmellington Area Centre,33 Main Street,Dalmellington,KA6 7QL,01292 550238,3535
+80217,4,Dalry Medical Practice,The Health Centre,50 Vennel Street,Dalry,KA24 4AF,01294 832523,6106
+80255,4,Dundonald Medical Practice,9 Main Street,Dundonald,Ayrshire,KA2 9HF,01563 850496,5058
+80260,6,Galston Medical Practice,5a Henrietta Street,Galston,AYRSHIRE,KA4 8HW,01563 820424,6107
+80274,3,"Drs McMaster, Moore & Brooksbank",Girvan Community Hospital,Bridgemill,Girvan,KA26 9HQ,01465 713 343,4199
+80289,3,Dr McCulloch & Partners,Girvan Community Hospital,Bridgemill,Girvan,KA26 9HQ,01465712281,3879
+80306,10,Bourtreehill Medical Practice,The Health Centre,Cheviot Way,Irvine,KA11 1JU,01294 211993,8711
+80330,4,Eglinton Family Practice,Ayrshire Central Hospital,Kilwinning Road,Irvine,KA12 8TJ,01294 279178,4332
+80344,10,Townhead Surgery,6/8 High Street,Irvine,AYRSHIRE,KA12 0AY,01294 441 441,13916
+80363,5,Kilbirnie Medical Practice,Kilbirnie Health Centre,2 Kirkland Road,Kilbirnie,KA25 6HP,01505 683 591,7758
+80378,9,London Road Medical Practice,12 London Road,Kilmarnock,Ayrshire,KA3 7AE,01563523593,12563
+80397,7,Dr Pugh and Partners,The Surgery,31 Portland Road,Kilmarnock,KA1 2DJ,01563522118,11120
+80400,10,The Wards Medical Centre,25 Dundonald Road,Kilmarnock,Ayrshire,KA1 1RU,01563526514,12341
+80414,6,The Surgery,Old Irvine Road Surgery,4/6 Old Irvine Road,Kilmarnock,KA1 2BD,01563522413,8115
+80467,2,Dr Paton & Muduniri,"The Surgery, The Health Centre",6 High Street,Maybole,KA19 7BY,01655 882278,3659
+80491,3,Drs Sheward & Partners,"The Surgery, The Health Centre",6 High Street,Maybole,KA19 7BY,01655882708,4108
+80518,4,Valley Medical Practice,67 Afton Bridgend,New Cumnock,Ayrshire,KA18 4BA,01290 338242,3910
+80522,6,Riverside Medical Practice,1 Doonside Avenue,Patna,AYRSHIRE,KA6 7LX,01292 532 500,4098
+80537,7,Station Road Medical Practice,2 Station Road,Prestwick,Ayrshire,KA9 1AQ,01292 671444,10358
+80541,5,Kirkhall Surgery,4 Alexandra Avenue,Prestwick,Ayrshire,KA9 1AW,01292 476626,6704
+80556,9,Saltcoats Group Practice,The Health Centre,17/19 Raise Street,Saltcoats,KA21 5LX,01294 605141,10689
+80561,3,"Drs Rai, Chan & Rai",37a The Lane,Skelmorlie,AYRSHIRE,PA17 5AR,01475 520248,4002
+80594,7,Stewarton Medical Practice,The Health Centre,45 High Street,Stewarton,KA3 5BP,01560 482011,10168
+80607,5,Templehill Surgery,23 Templehill,Troon,Ayrshire,KA10 6BQ,01292 312012,7421
+80611,6,"Drs McHattie, McGregor & Holland",Portland Surgery,1 Dukes Road,Troon,KA10 6QR,01292 312489,4278
+80626,5,101 Medical Practice,The Surgery,101 Portland Street,Troon,KA10 6QN,01292 310535,6072
+80631,6,West Kilbride Group Practice,107b Main Street,West Kilbride,AYRSHIRE,KA23 9AR,01294 823607,5551
+80679,1,Cumbrae Medical Practice,Garrison House,College Street,Millport,KA28 0DE,01475 531 400,1253
+80698,11,Frew Terrace Surgery,9 Frew Terrace,Irvine,Ayrshire,KA12 9DY,01294 272326,11166
+80701,2,Stevenston Group Practice,The Health Centre,20 Main Street,Stevenston,KA20 3AA,01294 464413,4267
+80720,7,Taiglum Medical Practice,Drongan Centre,Mill Of Shields Road,Drongan,KA6 7AY,01292 591345,8852
+80749,8,Ballochmyle Medical Group,The Clinic,Institute Avenue,Catrine,KA5 6RU,01290 456001,8896
+80753,9,Kilwinning Medical Practice,15 Almswall Road,Kilwinning,Ayrshire,KA13 6BL,01294 554 591,12872
+80768,3,Oxenward Surgery,3 Oxenward Road,Kilwinning,Ayrshire,KA13 6EH,01294 551555,4436
+80772,2,Auchinleck Surgery,The Health Centre,Main Street,Auchinleck,KA18 2AY,01290 424 713,2815
+80787,7,Dr Kondol and Partners,Loudoun Medical Centre,Lochore Terrace,Darvel,KA17 0HD,01560 320205,9047
+80842,4,Bankfield Medical Practice,148 Dalmellington Road,Ayr,Ayrshire,KA7 3PR,01292 264080,4809
+80857,12,Largs Medical Group,Brooksby Medical & Resource Centre,31 Brisbane Road,Largs,KA30 8LH,01475 674545,13305
+80895,4,Three Towns Medical Practice,The Health Centre,20 Main Street,Stevenston,KA20 3AA,01294 464141,7526
+80908,5,Portland Medical Practice,34 Portland Road,Kilmarnock,Ayrshire,KA1 2DL,01563 522411,10470
+80927,11,Arran Medical Group,The Medical Centre,Lamlash,Isle of Arran,KA27 8NS,01770 600516,4871
+80946,2,COMMUNITY WARDS,BIGGART HOPSITAL,BIGGART ROAD,PRESTWICK,KA9 2HQ,01294 400616, 
+BORDERS,122, , , , , , , 
+16013,3,Roxburgh Street Surgery,10 Roxburgh Street,Galashiels,0,TD1 1PF,01896 752557,3287
+16032,5,Jedburgh Medical Practice,The Health Centre,Queen Street,Jedburgh,TD8 6EN,01835 863361,6606
+16047,2,Newcastleton Medical Practice,Moss Road,Newcastleton,0,TD9 0RU,01387 375100,1575
+16051,5,Eildon Surgery,Auction Market,Newtown St Boswells,0,TD6 0PP,01835 822777,6613
+16066,5,Merse Medical Practice,South Crofts,Chirnside,0,TD11 3XP,01890 818253,6412
+16085,10,Selkirk Medical Practice,The Health Centre,Viewfield Lane,Selkirk,TD7 4LJ,01750 21674,7227
+16121,4,St Ronan's Practice,St Ronan's Health Centre,Innerleithen,0,EH44 6QE,01896 830203,4490
+16136,11,Kelso Medical Group,Kelso Health Centre,Inch Road,Kelso,TD5 7LF,01573 224424,11818
+16141,5,O'Connell Street Medical Practice,O'Connell Street Medical Centre,O'Connell Street,Hawick,TD9 9HU,01450 372276,6487
+16160,6,The Neidpath Practice,Hay Lodge Health Centre,Neidpath Road,Peebles,EH45 8JG,01721 720380,6033
+16174,5,West Linton Medical Practice,The Health Centre,Deanfoot Road,West Linton,EH46 7EX,01968 660808,3634
+16193,3,The Ellwyn Practice,The Health Centre,Currie Road,Galashiels,TD1 2UA,01896 661355,3102
+16206,7,Coldstream Medical Practice,The Health Centre,Kelso Road,Coldstream,TD12 4LQ,01890 882711,3754
+16211,8,The Tweed Practice,Hay Lodge Health Centre,Neidpath Road,Peebles,EH45 8JG,01721 720601,5465
+16230,5,Braeside Medical Practice,The Health Centre,Currie Road,Galashiels,TD1 2UA,01896 661360,4795
+16244,1,Glenfield Medical Practice,The Health Centre,Currie Road,Galashiels,TD1 2UA,01896 661363,2090
+16259,5,Waverley Medical Practice,The Health Centre,Currie Road,Galashiels,TD1 2UA,01896 661350,4974
+16475,1,Greenlaw Surgery,Duns Road,Greenlaw,Berwickshire,TD10 6XJ,01361 810216,1338
+16507,8,Eyemouth Medical Practice,The Health Centre,Houndlaw Park,Eyemouth,TD14 5DD,01890 750383,6330
+16545,11,Teviot Medical Practice,Teviot Road,Hawick,0,TD9 9DT,01450 370999,10712
+16550,4,Stow & Lauder Health,Stow Health Centre,Station Road,Stow,TD1 2SQ,01896 661440,4372
+16564,5,Earlston Medical Practice,Earlston Health Centre,Kidgate,Earlston,TD4 6DW,01896 848333,3096
+16583,3,Duns Medical Group,The Knoll,Station Road,Duns,TD11 3EL,01361885040,3035
+DUMFRIES AND GALLOWAY,128, , , , , , , 
+18057,3,Lochinch Practice,Waverley Medical Centre,Dalrymple Street,Stranraer,DG9 7DW,01776 743935,3001
+18095,4,Loch Ree Practice,Waverley Medical Centre,Dalrymple Street,Stranraer,DG9 7DW,01776 743932,5142
+18112,2,Mull of Galloway Practice,Drummore,Stranraer,0,DG9 9QQ,01776 840205,691
+18131,2,Dr J W M Dunn & Partner,The Surgery,High Vennel,Wigtown,DG8 9JQ,01988 402210,2404
+18151,4,Cairnsmore Medical Practice,Health Centre,Creebridge,Newton Stewart,DG8 6NR,01671 403609,3840
+18165,2,The Merrick Practice,The Surgery,St Couan Crescent,Kirkcowan,DG8 0HH,01671 830206,2293
+18184,7,Castle Douglas Medical Group,Garden Hill Primary Care Centre,2 Garden Hill Road,Castle Douglas,DG7 3EE,01556 505900,6890
+18199,4,Solway Medical Group,Health Centre,Kirkcudbright,0,DG6 4BJ,01557 330755,6456
+18216,3,Dr E A Carson & Partners,Garden Hill Primary Care Centre,2 Garden Hill Road,Castle Douglas,DG7 3EE,01556 502050,3782
+18235,3,Glenkens Medical Practice,High Street,New Galloway,0,DG7 3RN,01644 420234,1760
+18240,7,Dalbeattie Medical Practice,Craignair Health Centre,Port Road,Dalbeattie,DG5 4AZ,01556 610331,4708
+18254,2,Shebburn Medical Practice,Shebburn Surgery,New Abbey,0,DG2 8BY,01387 850263,2801
+18273,3,St Michaels Medical Centre,St Michaels Bridge Road,Dumfries,0,DG1 2PX,01387 244950,7692
+18288,1,Dr R Y Sabur & Partner,Lochthorn Medical Centre,Edinburgh Road,Dumfries,DG1 1TR,01387 259944,3593
+18305,7,Charlotte Medical Practice,Lochfield Road Primary Care Centre,12-28 Lochfield Road,Dumfries,DG2 9BH,01387 267626,9205
+18310,8,Gillbrae Medical Practice,Gillbrae Road,Dumfries,0,DG1 4EJ,01387 246282,11941
+18324,3,Upper Nithsdale Group Practice,Health Centre,Station Road,Sanquhar,DG4 6BT,01659 50221,4602
+18339,2,Thornhill Medical Practice,Health Centre,Thornhill,Dumfriesshire,DG3 5AA,01848 330208,3719
+18343,4,Cairn Valley Medical Practice,Dunscore Health Centre,Dunscore,0,DG2 0UJ,01387 820266,3993
+18358,4,Lockerbie Medical Practice,Lockerbie Health Centre,Victoria Gardens,Lockerbie,DG11 2BJ,01576 205502,5737
+18377,6,Lochmaben Medical Group,42-44 High Street,Lochmaben,0,DG11 1NH,01387 810215,4691
+18381,2,Church Place Surgery,6 Church Place,Moffat,0,DG10 9ES,01683 220197,2614
+18396,1,High Street Surgery,High Street,Moffat,0,DG10 9JP,01683 220062,2945
+18409,6,Dr W J G Kieran & Partners,Greencroft Medical Centre (South),Greencroft Wynd,Annan,DG12 6GS,01461 202244,6345
+18413,6,Dr N G Kelly & Partners,Greencroft Medical Centre (North),Greencroft Wynd,Annan,DG12 6GN,01461 202745,7555
+18428,2,Gretna Surgery,Central Avenue,Gretna,0,DG16 5NA,01461 338317,4636
+18432,1,Canonbie Surgery,Bowholm,Canonbie,0,DG14 0UX,013873 71313,2141
+18447,5,Langholm Medical Partnership,Health Centre,Langholm,0,DG13 0JY,013873 80355,2841
+18451,2, Dr C R Palmer & Partner,The Surgery,Ecclefechan,Lockerbie,DG11 3BT,01576 300208,2477
+18560,9,Greyfriars Medical Centre,33-37 Castle Street,Dumfries,0,DG1 1DL,01387 257752,11867
+18574,3,Dr C M Donnelly & Partner,Sandhead Surgery,Piggery Road,Sandhead,DG9 9DP,01776 830262,2175
+18589,2, Dr N T Miscampbell & Partner,Four Winds,Glenluce,Wigtownshire,DG8 0PU,01581 300315,1712
+18593,5,Lochnaw Practice,Waverley Medical Centre,Dalrymple Street,Stranraer,DG9 7DW,01776 743930,4854
+18611,3,Southern Machars Practice,3 St. John Street,Whithorn,0,DG8 8PS,01988 500218,3011
+FIFE,264, , , , , , , 
+20004,5,Anstruther Medical Practice,Skeith Health Centre,"Crail Road, Cellardyke",Anstruther,KY10 3FF,01333 310352,6287
+20057,5,Auchtermuchty Practice,Auchtermuchty Health Centre,12 Carswell Wynd,Auchtermuchty,KY14 7AW,01337 828262,5916
+20108,8,Muiredge Surgery,Merlin Crescent,Buckhaven,Fife,KY8 1HJ,01592 713299,7371
+20151,4,"Drs Bandularatne, McGourty, Rees & Wheal",Burntisland Medical Group,Burntisland Health Centre,"74 Somerville Street, Burntisland",KY3 9DF,01592 872761,5585
+20184,1,The Links Practice,"The Health Centre, 74 Somerville Street",BURNTISLAND,Fife,KY3 9DF,01592 873321,1407
+20254,2,Wallsgreen Medical Practice,The Health Centre,Wallsgreen Road,Cardenden,KY5 9JE,01592 722441,3097
+20305,8,Cowdenbeath Surgery,Cowdenbeath Medical Practice,173 Stenhouse Street,Cowdenbeath,KY4 9DH,01383 518500,10727
+20358,2,Crossgates Medical Practice,94 Main Street,Crossgates,Fife,KY4 8DF,01383 511398,4206
+20409,5,Eden Villa Practice,The Health Centre,Bank Street,Cupar,KY15 4JN,01334 651223,7650
+20413,6,Bank Street Medical Group,The Health Centre,Bank Street,Cupar,KY15 4JN,01334 651201,7258
+20451,9,Nethertown Surgery,Elliot Street,Dunfermline,Fife,KY11 4TF,01383 623516,9864
+20466,7,New Park Medical Practice,163 Robertson Road,Dunfermline,Fife,KY12 0BL,01383 629200,11786
+20471,5,Hospital Hill Surgery,Izatt Avenue,Dunfermline,0,KY11 3BA,01383 731721,8986
+20485,4,Millhill Surgery,87 Woodmill Street,Dunfermline,0,KY11 4JW,01383 621222,9053
+20490,7,Bellyeoman Surgery,Bellyeoman Road,Dunfermline,Fife,KY12 0AE,01383 721266,9921
+20502,7,Linburn Road Health Centre,124 Nith Street,Dunfermline,Fife,KY11 4LT,01383 733490,7793
+20606,1,The Lomond Practice,Napier Road,Glenrothes,0,KY6 1HL,01592 765039,7182
+20611,6,North Glen Medical Practice,1 Huntsman'S Court,Glenrothes,Fife,KY7 6SX,01592 620062,8792
+20630,6,The Glenwood Practice,Glenwood Health Centre,Napier Road,Glenrothes,KY6 1HL,01592 765001,5824
+20659,9,Cos Lane Surgery,Woodside Road,Glenrothes,0,KY7 4AQ,01592 752100,9130
+20663,4,Rothes Medical Practice,Pitteuchar Health Centre,Glamis Centre,Glenrothes,KY7 4RH,01592 771177,8728
+20729,3,Valleyfield Medical Practice,The Health Centre,Chapel Street,High Valleyfield,KY12 8SJ,01383 880511,4491
+20752,10,Inverkeithing Medical Group,Inverkeithing Medical Centre,5 Friary Court,Inverkeithing,KY11 1NU,01383 413234,18408
+20803,7,Kelty Medical Practice,Kelty Health Centre,80 Main Street,Kelty,KY4 0AE,01383 831281,7236
+20856,2,Kennoway Medical Group,Jordan Lane,Kennoway,Fife,KY8 5JZ,01333 350241,3837
+20907,3,Kinghorn Medical Practice,Rossland Place,Kinghorn,Fife,KY3 9RT,01592 890217,3310
+20950,3,Nicol Street Surgery,48 Nicol Street,Kirkcaldy,Fife,KY1 1PH,01592 642969,6121
+20964,5,Dr Anderson & Partners,Kirkcaldy Health Centre,Whyteman'S Brae,Kirkcaldy,KY1 2NA,01592 642902,7341
+20979,5,Bennochy Medical Centre,65 Bennochy Road,Kirkcaldy,Fife,KY2 5RB,01592 263332,8007
+20983,6,St Brycedale Surgery,St Brycedale Road,Kirkcaldy,Fife,KY1 1ER,01592 640800,6880
+20998,6,Path House Medical Practice,7 Nether Street,Kirkcaldy,0,KY1 2PG,01592 805100,10615
+21007,5,"Drs Dixon, Duggan, Egerton, Flynn & McCrickard",Kirkcaldy Health Centre,Whyteman'S Brae,Kirkcaldy,KY1 2NA,01592 642178,6922
+21011,3,"Drs Mitchell, Morris & Fordyce",Kirkcaldy Health Centre,Whyteman'S Brae,Kirkcaldy,KY1 2NA,01592 641203,6032
+21026,1,Dr C M MacGlone,Kirkcaldy Health Centre,Whyteman'S Brae,Kirkcaldy,KY1 2NA,01592 640600,1659
+21101,3,Howe of Fife Surgery,27 Commercial Road,Ladybank,Fife,KY15 7JS,01337 830765,4469
+21153,4,Leslie Medical Practice,Anderson Drive,Leslie,Fife,KY6 3LQ,01592 620222,6187
+21204,3,Pitcairn Practice Leuchars & Balmullo,Balmullo Surgery,1 Pitcairn Drive,Balmullo,KY16 0DZ,01334 839210,3683
+21257,3,Dr McLaren & Partners,Leven Health Centre,Victoria Road,Leven,KY8 4ET,01333 432588,8670
+21276,4,The Health Centre,Victoria Road,Leven,Fife,KY8 4ET,01333 432555,4030
+21308,2,Dr Chan,Surgery,Main Road,Charlestown,KY11 3ED,01383 872201,2650
+21384,4,Meadows Practice,The Health Centre,David Street,Lochgelly,KY5 9QZ,01592 782783,5068
+21421,4,Benarty Medical Practice,54-58 Lochleven Road,Lochore,Fife,KY5 8DA,01592 860463,7640
+21435,3,Lochgelly Medical Group,The Health Centre,David Street,"Lochgelly, Fife",KY5 9QZ,01592 780277,3441
+21440,1,Dr K Thompson,The Health Centre,David Street,"Lochgelly, Fife",KY5 9QZ,01592 782954,2303
+21454,7,Markinch Medical Practice,19 High Street,Markinch,Fife,KY7 6ER,01592 610640,5952
+21505,4,Methilhaven Surgery,361 Methilhaven Road,Methil,Fife,KY8 3HR,01333 426913,6730
+21524,6,Airlie Medical Practice,Ajax Way,Methil,Fife,KY8 3RS,01333 426083,7597
+21558,3,Newburgh Surgery,116 High Street,Newburgh,Fife,KY14 6DA,01337 840462,3797
+21609,7,Tayview Medical Practice,16 Victoria Street,Newport-On-Tay,0,DD6 8DJ,01382 543251,9558
+21651,3,Inzievar Medical Practice,Oakley Health Centre,Wardlaw Way,Oakley,KY12 9QH,01383 850212,3847
+21666,2,Drs Boggon & Halford,Oakley Health Centre,Wardlaw Way,Oakley,KY12 9QH,01383 850293,3821
+21736,4,Dr Kyle & Partners,Pittenweem Surgery,2 Routine Row,Pittenweem,KY10 2LG,01333 311307,4870
+21755,6,Primrose Lane Medical Centre,3-5 Jutland Street,Rosyth,Fife,KY11 2ZL,01383 414874,9119
+21760,4,Park Road Practice,Park Road Surgery,Park Road,Rosyth,KY11 2SE,01383 418931,5900
+21825,6,Blackfriars Medical Practice,St Andrews Community Hospital,Largo Road,St Andrews,KY16 8AR,01334 477477,7212
+21830,11,Pipeland Medical Practice,St Andrews Community Hospital,Largo Road,"St Andrews, Fife",KY16 8AR,01334 476840,15297
+FORTH VALLEY,273, , , , , , , 
+25012,4,Dr Stirling & Partners,Hallpark Road,Sauchie,0,FK10 3JQ,01259 216476,8856
+25027,6,Health Centre Practice 2,Hallpark Road,Sauchie,Clackmannanshire,FK10 3JQ,01259 724181,9886
+25031,4,Dr Borland & Partners CCHC,Hallpark Road,Sauchie,0,FK10 3JQ,01259 216701,7359
+25046,15,Alva Medical Practice,West Johnstone Street,Alva,Clackmannanshire,FK12 5BD,01259 760331,12482
+25051,3,Balfron Health Centre,41-47 Buchanan Street,Balfron,0,G63 0TS,01360 440515,2874
+25065,2,Edenkiln Surgery,12 Dumbrock Road,Strathblane,0,G63 9EG,01360 770340,2432
+25070,5,Forthview Practice,Health Centre,Dean Road,Bo'ness,EH51 0DQ,01506 822466,4267
+25084,11,The Richmond Practice,The Richmond Practice,Dean Road,Bo'ness,EH51 0DQ,01506 822665,8424
+25099,4,Kinglass Medical Practice,Kinglass Centre,Gauze Road,Bo'ness,EH51 9UE,01506 822556,3225
+25101,5,Bridge Of Allan Health Centre,Fountain Road,Bridge Of Allan,0,FK9 4EU,01786 833210,6908
+25116,3,Bracklinn Practice,Callander Medical Centre,Geisher Road,Callander,FK17 8LX,01877 331001,2071
+25121,2,Leny Practice,Callander Medical Centre,Geisher Road,Callander,FK17 8LX,01877 331000,2326
+25135,6,Clackmannan & Kincardine Medical Practice,Main Street,Clackmannan,Clackmannanshire,FK10 4JA,01259 723725,5664
+25169,4,Fallin Health Centre,Stirling Road,Fallin,Stirlingshire,FK7 7JD,01786 812412,6136
+25173,4,Denny Cross Medical Centre,1 Duke Street,Denny,0,FK6 6DB,01324 822330,5342
+25188,13,Carronbank Medical Practice,Denny Health Centre,Carronbank House,Denny,FK6 6GD,01324 822382,9098
+25192,4,Antonine Medical Practice,Larbert Road,Bonnybridge,0,FK4 1ED,01324 812315,4873
+25205,7,Bonnybank Medical Practice,Bonnybridge Health Centre,Larbert Road,Bonnybridge,FK4 1ED,01324 812613,8638
+25210,5,Dollar Health Centre,Park Place,Dollar,0,FK14 7AA,01259 742120,4862
+25224,4,Doune Health Centre,Castlehill,Doune,0,FK16 6DR,01786 841213,3963
+25243,10,Dunblane Medical Practice,Health Centre,Well Place,Dunblane,FK15 9AL,01786 822595,10281
+25262,4,Wallace Medical Centre,254 Thornhill Road,Falkirk,0,FK2 7AZ,01324 622826,7776
+25277,2,Ark Medical Practice,9 Booth Place,Falkirk,0,FK1 1BA,01324 621113,2538
+25281,8,Meeks Road Surgery,10 Meeks Road,Falkirk,0,FK2 7ES,01324 619930,10397
+25309,5,Graeme Medical Centre,1 Western Avenue,Falkirk,0,FK2 7HR,01324 624437,5764
+25313,6,Camelon Medical Practice,3 Baird Street,Camelon,Falkirk,FK1 4PP,01324 622854,8218
+25332,5,Bo'ness Road Medical Practice,33 Bo'ness Road,Grangemouth,0,FK3 8AN,01324 482653,8478
+25347,6,Killearn Health Centre,Killearn,0,0,G63 9NA,01360 550339,4332
+25351,2,Killin Medical Practice,Laggan Leigheas,Killin,0,FK21 8TQ,01567 820213,1580
+25366,3,Kippen Surgery,Castlehill Loan,Kippen,0,FK8 3DZ,01786 870369,2051
+25390,4,Viewpoint Medical Practice,Stenhousemuir Health Centre,Park Drive,Stenhousemuir,FK5 3BB,01324 552200,6473
+25402,3,Parkview Practice,Stenhousemuir Health Centre,Park Drive,Stenhousemuir,FK5 3BB,01324 554411,4135
+25436,2,Dr Stephen Brown,Meadowbank Health Centre,Salmon Inn Road,Polmont,FK2 0XF,01324 722454,3006
+25441,8,Polmont Park Medical Practice,Meadowbank Health Centre,Salmon Inn Road,Polmont,FK2 0XF,01324 715753,7243
+25455,5,Braesview Medical Group,Meadowbank Health Centre,Salmon Inn Road,Polmont,FK2 0XF,01324 715540,7520
+25460,5,Dr C Whitelaw & Partners,Meadowbank Health Centre,Polmont,Falkirk,FK2 0XF,01324 715446,10744
+25474,3,Slamannan Medical Practice,Bank Street,Slamannan,Stirlingshire,FK1 3EZ,01324 851288,1974
+25506,6,Park Terrace Medical Practice,7a Park Terrace,Stirling,0,FK8 2JT,01786 445 888,6977
+25525,4,Orchard House Health Centre,Orchard House Health Centre,Union Street,Stirling,FK8 1PH,01786 450394,4247
+25544,11,Tillicoultry Medical Practice,Park Street,Tillicoultry,0,FK13 6AG,01259 750531,7787
+25559,6,Airthrey Park Medical Centre,Hermitage Road,University Of Stirling,Stirling,FK9 4NJ,01786 463831,7596
+25582,6,Park Avenue Medical Centre,9 Park Avenue,Stirling,0,FK8 2QR,01786 473529,7890
+25597,2,Stenhouse Practice,Stenhousemuir Health Centre,Park Drive,Stenhousemuir,FK5 3BB,01324 570570,3391
+25600,4,Bannockburn Health Centre,Firs Entry,Bannockburn,Stirling,FK7 0HW,01786 813435,9044
+25614,1,Strathcarron Hospice,Randolph Hill,Denny,Stirlingshire,FK6 5HJ,01324 826222, 
+25629,1,Aberfoyle Medical Centre,Main Street,Aberfoyle,Stirlingshire,FK8 3UQ,01877 382421,1196
+25633,2,Buchlyvie Surgery,Station Road,Buchlyvie,Stirling,FK8 3NB,01877 382421,1229
+25648,4,Tryst Medical Centre,431 King Street,Stenhousemuir,0,FK5 4HT,01324 551555,6419
+25652,5,Carron Medical Centre,Ronades Road,Bainsford,Falkirk,FK2 7TA,01324 619940,4158
+25671,3,Ochilview Practice,Stenhousemuir Health Centre,Park Drive,Stenhousemuir,FK5 3BB,01324 554136,4894
+25686,5,Allan Park Medical Practice,19 Allan Park,Stirling,0,FK8 2QD,01786 451375,3753
+25691,1,The Wallace Medical Practice,Wallace House,Maxwell Place,Stirling,FK8 1JU,01786 448900,1729
+25737,4,Viewfield Medical Practice,3 Viewfield Place,Stirling,0,FK8 1NJ,01786 472028,8959
+25826,1,Direct Patient Care Service,Accident & Emergency Dept,Forth Valley Royal Hospital,"Stirling Rd, Larbert",FK5 4WR,01324 624000,28
+25864,5,Kersiebank Medical Practice,Health Centre,Kersiebank Avenue,Grangemouth,FK3 9EW,01324 665533,9099
+25883,4,Westburn Medical Practice,Falkirk CommunityHospital,Westburn Ave,Falkirk,FK1 5SU,01324 623577,4730
+25898,1,Drymen Health Centre,2 Old Gartmore Road,Drymen,0,G63 0DP,01360 660203,1433
+25915,5,Carseview House,Carseview House,Castle Business Park,Stirling,FK9 4SW,01786 463031, 
+GRAMPIAN,550, , , , , , , 
+30030,10,Garthdee Medical Group,Health Centre Garthdee Road,Aberdeen,Aberdeenshire,AB10 7QQ,01224 208312,9938
+30059,10,Holburn Medical Group,7 Albyn Place,Aberdeen,0,AB10 1YE,01224 400800,9176
+30078,6,Denburn Medical Practice,Denburn Health Centre,Rosemount Viaduct,Aberdeen,AB25 1QB,01224 643333,10809
+30082,8,Whinhill Medical Practice,20 Whinhill Road,Aberdeen,0,AB11 7XH,0345 337 6201,6951
+30203,13,Elmbank Group Practice,Foresterhill Health Centre,Westburn Road,Aberdeen,AB25 2AY,0345 337 0710,10227
+30218,6,Hamilton Medical Group,4 Queens Road,Aberdeen,0,AB15 4ZT,01224 562888,6827
+30256,2,Bucksburn Medical Practice,Bucksburn Clinic,Kepplehills Road,Bucksburn,AB21 9DG,01224 713927,2729
+30261,3,Westburn Medical Group,"Foresterhill Health Centre, Westburn Road",Aberdeen,Aberdeenshire,AB25 2AY,01224 559595,5268
+30275,6,Torry Medical Practice,Torry Neighbourhood Centre,Oscar Road,Aberdeen,AB11 8ER,01224 894600,7357
+30280,8,New Dyce Medical Practice,Dyce Health Centre,23a Altonrea Gardens,Dyce Aberdeen,AB21 7NQ,0345 3379922,10063
+30307,10,Great Western Medical Practice,Seafield Road,Aberdeen,Aberdeenshire,AB15 7YT,0345 337 0540,10124
+30401,13,Kincorth Medical Practice,Kincorth Community Health Centre,Provost Watt Drive,Kincorth,AB12 5NA,0345 337 1170,12540
+30504,16,Oldmachar Medical Practice,526 King Street,Aberdeen,0,AB24 5RS,0345 3370510,17926
+30561,3,Marywell Healthcare Centre,90 College Street,Aberdeen,0,AB11 6FD,01224 594108,431
+30627,8,Links Medical Practice,City Hospital,Park Road,Aberdeen,AB24 5AU,0345 337 6340,8616
+30701,12,Calsayseat Medical Group,44 Powis Place,Aberdeen,0,AB25 3TX,0345 3376370,13124
+30769,7,Northfield/Mastrick Medical Practice,Northfield/Mastrick Clinic,"Quarry Road, Northfield",Aberdeen,AB16 5UU,01224662911,5176
+30805,5,Rosemount Medical Group,Rosemount Medical Practice,1 View Terrace,Aberdeen,AB25 2RS,0345 337 0520,4358
+30909,10,Albyn Medical Practice,The Albyn Medical Practice,30 Albyn Place,Aberdeen,AB10 1NW,01224 586829,10323
+30913,9,Old Aberdeen Medical Practice,12 Sunnybank Road,Aberdeen,0,AB24 3NG,01224 486702,10708
+30951,11,Rubislaw Place Medical Group,Rubislaw Medical Group,7 Rubislaw Place,Aberdeen,AB10 1QB,01224 641968,8783
+30971,9,Carden Medical Centre,"Carden House, Carden Place",Aberdeen,Aberdeenshire,AB10 1UT,0345 3376330,8755
+31009,7,Victoria Street Medical Group,7 Victoria Street,Aberdeen,0,AB10 1QW,01224 641930,7233
+31141,11,Woodside Medical Group,Woodside Fountain Health Centre,Great Northern Road,Aberdeen,AB24 2AS,01224 492828,10925
+31206,9,Scotstown Medical Group,Cairnfold Road,Bridge Of Don,Aberdeen,AB22 8LD,01224 702149,12461
+31211,9,Gilbert Road Medical Group,39 Gilbert Road,Bucksburn,Aberdeen,AB21 9AN,01224 712138,9837
+31230,5,Cults Medical Group,South Avenue,Cults,Aberdeen,AB15 9LQ,0345 337 1140,7202
+31244,6,Peterculter Medical Practice,Peterculter Health Centre,Coronation Road,Peterculter,AB14 0RQ,01224 733535,8104
+31259,5,Danestone Medical Practice,Fairview Street,Danestone,Aberdeen,AB22 8ZP,01224 822866,4938
+31333,4,Camphill Medical Practice,Murtle Estate,Bieldside,Aberdeen,AB15 9EP,01224 868935,1454
+31418,4,Deveron Medical Practice,Deveron Medical Group,"The Health Centre, Fife Street",Banff,AB45 1JD,03453379933,6289
+31437,2,Macduff Medical Practice,Macduff Health Clinic,100 Duff Street,Macduff,AB44 1PR,01261 833777,5916
+31456,3,An Caorann Medical Practice,Portsoy Surgery,16 Seafield Terrace,Portsoy,AB45 2GB,03453379966,5126
+31511,3,Finlayson Street Practice,Finlayson Street Surgery,33 Finlayson Street,Fraserburgh,AB43 9JW,01346 518088,9776
+31531,5,Central Buchan Medical Practice,Central Buchan Medical Group,School Street,New Pitsligo,AB43 6NE,01771 653205,6314
+31545,4,Saltoun Surgery,Lochpots Road,Fraserburgh,Aberdeenshire,AB43 9NH,01346 514154,8688
+31601,2,Crimond Medical Centre,Crimond,Fraserburgh,Aberdeenshire,AB43 8QJ,01346 532215,3287
+31615,4,Cruden Medical Group,Main Street,Hatton,Peterhead,AB42 0QQ,01779 841208,3796
+31620,4,Mintlaw Group Practice,Newlands Road,Mintlaw,Aberdeenshire,AB42 5GP,01771 624070,8977
+31634,17,Peterhead Health Centre,Links Terrace,Peterhead,Aberdeenshire,AB42 2XA,01779 474841,22132
+31719,10,Fyvie Oldmeldrum Medical Group,Oldmeldrum Health Centre,Academy Way,Oldmeldrum,AB51 0JZ,01651 872239,8766
+31723,11,Turriff Medical Practice,Turriff Health Centre,Balmellie Road,Turriff,AB53 4DQ,0345 3376320,8997
+31808,4,Alford Medical Practice,Gordon Road,Alford,Aberdeenshire,AB33 8FL,019755 62253,5789
+31812,1,Strathdon Medical Centre,Newe,Strathdon,Aberdeenshire,AB36 8XB,019756 51209,739
+31901,12,Ellon Group Practice,Ellon Health Centre,Schoolhill,Ellon,AB41 9AH,0345 337 1150,15677
+31916,4,Haddo Medical Group,"Pitmedden Surgery, Tarves Road","Pitmedden, Ellon",Aberdeenshire,AB41 7NX,01651 843468,5296
+32001,6,Insch Medical Practice,Insch Health Centre,Rannes Street,Insch,AB52 6JJ,0345 337 6310,6590
+32021,21,Inverurie Medical Group,Inverurie Health Centre,Constitution Street,Inverurie,AB51 4SU,0345 337 9911,22329
+32035,6,Kemnay Medical Group,Kemnay Medical Centre,Kemnay,Inverurie,AB51 5NB,01467 642289,6226
+32092,6,Bydand Medical Group,"Huntly Health Centre, Bleachfield Street",Huntly,Aberdeenshire,AB54 8EX,01466 792116,7896
+32110,2,Rhynie Surgery,Manse Road,Rhynie,Aberdeenshire,AB54 4WA,01464861271,1077
+32209,13,Skene Medical Group,Skene Healthcare Centre,"Discovery Drive, Arnhall Business Park","Westhill, Aberdeen",AB32 6FG,01224 849400,15311
+32290,11,Aboyne Health Centre  Incl. Tarland,Bellwood Road,Aboyne,Aberdeenshire,AB34 5HQ,03453379955,6648
+32317,3,Ballater Clinic,13 Provost Craig Road,Ballater,Aberdeenshire,AB35 5NN,013397 55686,1960
+32321,2,Braemar Health Clinic,St Andrews Terrace,Braemar,Aberdeenshire,AB35 5WR,013397 41202,572
+32341,3,Torphins Medical Practice,St Marnans Road,Torphins,0,AB31 4JQ,013398 82221,1996
+32406,16,Banchory Group Practice,Bellfield,Banchory,Aberdeenshire,AB31 5XS,01330 822121,12711
+32411,14,Portlethen Medical Centre,Portlethen,Aberdeen,0,AB12 4QP,01224 780223,14996
+32425,13,Stonehaven Medical Group,Stonehaven Medical Centre,Robert Street,Stonehaven,AB39 2EL,0345 3371160,13226
+32500,2,Auchenblae Medical Centre,Mackenzie Avenue,Auchenblae,Kincardineshire,AB30 1XU,01561320202,1966
+32514,5,Inverbervie Medical Group,Inverbervie Medical Centre,Church Street,Inverbervie,DD10 0RU,01561361260,5880
+32529,7,Laurencekirk Medical Group,Laurencekirk Healthcare Centre,Blackiemuir Ave,Laurencekirk,AB30 1GX,01561377258,5586
+32586,9,Ardach Health Centre,Highfield Road,Buckie,Banffshire,AB56 1JE,01542 831555,9268
+32622,6,Seafield & Cullen Medical Group,Barrhill Road,Buckie,Moray,AB56 1FP,01542 835577,5506
+32707,9,Linkwood Medical,The Glassgreen Centre,2 Thornhill Drive,Elgin,IV30 6GQ,0345 337 6350,11285
+32711,4,Elgin Community Surgery,"Highfield House, Northfield Terrace",Elgin,Morayshire,IV30 1NE,03453379988,5089
+32750,3,Fochabers Medical Practice,12 High Street,Fochabers,Morayshire,IV32 7EP,01343 820247,4154
+32764,9,Moray Coast Medical Practice,Moray Coast Health Centre,Muirton Road,Lossiemouth,IV31 6HJ,0345 337 1190,10103
+32779,14,Maryhill Group Practice  incl. Rothes,Maryhill,Elgin,Moray,IV30 1AT,0345 337 0610,16870
+32801,10,Forres Health & Care Centre -Varis,Grantown Road,Forres,Moray,IV36 1JG,0345 3371120,7983
+32815,7,Culbin Medical Practice,Grantown Road,Forres,Morayshire,IV36 1JG,0345 3371120,8023
+32904,6,Keith Medical Group,Turner Street,Keith,Banffshire,AB55 5DJ,01542 882244,7425
+33004,3,Aberlour Health Centre,Queens Road,Aberlour,Banffshire,AB38 9PR,01340 871210,3234
+33019,2,Glenlivet Medical Practice,Glenlivet Community Surgery,Drumin,Ballindalloch,AB37 9AN,01807 590273,689
+33057,7,Rinnes Medical Group,Mount Street,Dufftown,Moray,AB55 4FJ,01340 820888,2939
+GREATER GLASGOW AND CLYDE,1032, , , , , , , 
+40008,5,Fulton Street Medical Centre,Fulton Street Surgery,94 Fulton Street,Glasgow,G13 1JE,0141 959 3391,5908
+40012,5,Buckingham Terrace Medical Practice,31 Buckingham Terrace,Glasgow,0,G12 8ED,0141 211 6210,9565
+40027,4,The Terrace Medical Practice,160 Drymen Road,Bearsden,Glasgow,G61 3RD,0141 942 6644,7261
+40031,3,"Drs Eardley, Reid & MacLaren",3 Radnor Street,Glasgow,0,G3 7UA,0141 334 6111,4595
+40046,8,Red Wing Medical Practice,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6475,9689
+40051,9,Anniesland Medical Practice,46 Munro Place,Glasgow,0,G13 2UP,0141 954 8860,8791
+40065,4,Old Kilpatrick Medical Practice,Erskine View,Old Kilpatrick,Glasgow,G60 5JG,01389 872575,5176
+40070,4,Abingdon Medical Practice,5 Stewartville Street,Glasgow,0,G11 5PE,0141 339 0902,3641
+40084,4,Drs MacLean & McCrossan,20 Pennan Place,Glasgow,0,G14 0EA,0141 959 1704,2340
+40101,7,Kessington Medical Centre,85 Milngavie Road,Bearsden,Glasgow,G61 2DN,0141 532 8000,6646
+40116,7,Kingsway Medical Practice,12 Kingsway Court,Glasgow,0,G14 9SS,0141 959 6000,4345
+40121,6,The Broomhill Practice,41 Broomhill Drive,Glasgow,0,G11 7AD,0141 339 3626,5630
+40140,8,Northcote Surgery,2 Victoria Circus,Glasgow,0,G12 9LD,0141 339 3211,11766
+40154,3,"Drs Crighton, Chapman & Ali",10 Queen's Crescent,Glasgow,0,G4 9BL,0141 332 3526,7436
+40173,6,Ashfield Medical Practice,Ashfield House,1 Ashfield Road,Milngavie,G62 6BT,0141 956 1339,7089
+40188,1,Dr I. Cullen,130 Hyndland Road,Glasgow,0,G12 9PN,0141 339 1298,2540
+40192,2,Gardner Street Surgery,The Surgery,16 Gardner Street,Glasgow,G11 5NG,0141 334 2215,3201
+40210,2,Shaftesbury Medical Practice,1265 - 1275 Dumbarton Road,Glasgow,0,G14 9UU,0141 959 5500,1585
+40224,7,The Green Medical Practice,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6425,8825
+40239,4,"Drs Blair, Secrett & Coombs",Denbridge Surgery,"96 Drymen Road, Bearsden",Glasgow,G61 2SY,0141 942 9494,4980
+40262,5,Dr Miller & Partners,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6410,6387
+40277,3,Drs McAlpine & Walker,14 Apsley Street,Glasgow,0,G11 7SY,0141 339 2960,4021
+40281,1,Dr Haggerty,250 Drumchapel Road,Glasgow,0,G15 6EG,0141 944 3534,2090
+40296,1,Peel Street Medical Centre,11 Peel Street,Glasgow,0,G11 5LL,0141 334 9331,2379
+40313,2,The Avenues Medical  Practice,1448 Dumbarton Road,Glasgow,0,G14 9DW,0141 959 2023,1715
+40328,3,Dr J Roberts & Dr H Melrose,3 Radnor Street,Glasgow,0,G3 7UA,0141 334 6111,4600
+40332,3,Knightswood Medical Practice,1980 Great Western Road,Glasgow,0,G13 2SW,0141 959 1196,4376
+40351,2,Dr A P Jackson & Partners,91 Hyndland Road,Hyndland,Glasgow,G12 9JE,0141 339 7869,4987
+40385,8,Kersland House Surgery,37 Station Road,Milngavie,0,G62 8BT,0141 956 1005,7768
+40390,2,Dr Dickson & Roushdy-Gemie,Yokermill Medical Centre,6 Yokermill Road,Glasgow,G13 4PU,0141 959 2118,2484
+40402,3,"Drs Stewart, Boyle & Pilsworth",Denbridge Surgery,"96 Drymen Road, Bearsden",Glasgow,G61 2SY,0141 942 9494,3850
+40417,2,Whiteinch Medical Practice,1215 - 1232 Dumbarton Road,Glasgow,0,G14 9UT,0141 211 9045,2536
+40421,2,Drs Logan & Macdonald,Drumchapel Health Centre,80/90 Kinfauns Drive,Glasgow,G15 7TS,0141 211 6090,2649
+40436,5,Garscadden Burn Medical Practice,Drumchapel Health Centre,80/90 Kinfauns Drive,Glasgow,G15 7TS,0141 211 6100,5138
+40441,1,St Georges Medical Centre,137 St Georges Road,Glasgow,0,G3 6JB,0141 333 4790,1958
+40455,3,"Drs Crawford, Lawson & MacNeill",Sandyford Surgery,1119 Argyle Street,Glasgow,G3 8ND,0141 248 3698,5856
+40460,1,Dr  Khan,Bank Street Surgery,26 Bank Street,Glasgow,G12 8ND,0141 339 5513,2083
+40493,3,The Cairntoul Practice,9 Cairntoul Drive,Glasgow,0,G14 0XT,0141 959 5519,2799
+40525,2,Yoker Medical Centre,2383 Dumbarton Road,Yoker,Glasgow,G14 0NT,0141 211 6999,4006
+40544,4,Drumchapel Medical Practice,Drumchapel Health Centre,80/90 Kinfauns Drive,Glasgow,G15 7TS,0141 211 6080,3092
+40559,2,Dr Turnbull & Dr Coyle,Drumchapel Health Centre,80/90 Kinfauns Drive,Glasgow,G15 7TS,0141 211 6110,2662
+40563,1,Scotstoun Medical Practice,1483 Dumbarton Road,Glasgow,0,G14 9XL,0141 211 9090,2130
+40578,2,Victoria Park Medical Practice,1398 Dumbarton Road,Glasgow,0,G14 9DS,08444 773318,3947
+40582,4,The Orange Wing Medical Practice,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6440,6306
+40629,3,Glasgow West Medical Practice,1264 Dumbarton Road,Glasgow,0,G14 9PS,0141 959 6311,4687
+40667,2,Challenging Behaviour Practice,120/130 William Street,Glasgow,0,G3 8UR,11111 111111,42
+40691,6,Dr Chalmers & Partners,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6490,6747
+40703,3,Dr Rai & Partners,Clydebank Health Centre,Kilbowie Road,Clydebank,G81 2TQ,0141 531 6463,3227
+40718,1,Ashton Medical Practice,Ashton House,3 Ashton Road,Glasgow,G12 8SP,0141 339 7266,7145
+40722,3,Dr M Duffy & Dr A Morgan,Drrumchapel Health Centre,80/90 Kinfauns Drive,Glasgow,G15 7TS,0141 2116120,4449
+43011,9,Gairbraid Medical Practice,Maryhill Health Centre,41 Shawpark Street,Glasgow,G20 9DR,0141 531 8840,6195
+43030,12,Regent Gardens Medical Centre,18 Union Street,Kirkintilloch,0,G66 1DH,0141 776 1238,9758
+43044,5,The Turret Medical Centre,Catherine Street,Kirkintilloch,0,G66 1JB,0141 776 8200,6034
+43059,6,Springfield Medical Practice,9 Springfield Road,Bishopbriggs,Glasgow,G64 1PJ,0141 772 4744,8850
+43063,2,Dr A. Polding,Springburn Health Centre,200 Springburn Way,Glasgow,G21 1TR,0141 531 9610,2848
+43082,3,Dr Burton & Dr Krishnan,Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9530,2500
+43097,2,Atlas Medical Practice,Springburn Health Centre,200 Springburn Way,Glasgow,G21 1TR,0141 531 9660,2991
+43100,9,Southbank Surgery,17/19 Southbank Road,Kirkintilloch,0,G66 1NH,0141 776 2183,7535
+43114,7,Peelview Medical Centre,Peel View Medical Centre,45/53 Union Street,Kirkintilloch,G66 1DN,0141 776 3442,10231
+43129,3,Drs Ballantyne & Blair,Springburn Health Centre,200 Springburn Way,Glasgow,G21 1TR,0141 531 9670,3418
+43133,7,"Drs  Cron, Howat,McKinlay, Legge & Hunter",The Barony Medical Centre,30 Auchinloch Street,Glasgow,G21 4AH,0141 557 6161,5715
+43167,7,"Drs West, Kelly, Fitzsimons, Gourlay & Rigg",Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9520,5732
+43171,8,Kenmure Medical Practice,7 Springfield Road,Bishopbriggs,Glasgow,G64 1PJ,0141 772 6309,7541
+43186,3,Dr Love & Partners,Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9560,6094
+43191,3,Drs Gaw & Esler,Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9500,3263
+43203,3,Kelvin Medical Centre,96 Napiershall Street,Glasgow,0,G20 6HS,0141 211 9597,4042
+43218,6,"Drs Glekin, Sutherland & Mabon",Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9550,5859
+43222,4,Auchinairn Medical Practice,127/129 Auchinairn Road,Bishopbriggs,Glasgow,G64 1NF,0141 772 1808,6767
+43237,5,Keppoch Medical Practice,Possilpark Health & Care Centre,99 Saracen Street,Glasgow,G22 5AP,0141 800 0840,3360
+43256,3,Balmore Surgery,Possilpark Health & Care Centre,99 Saracen Street,Glasgow,G22 5AP,0141 800 0800,3514
+43261,2,Lennoxtown Medical Practice,Lennoxtown Hub,46 Main Street,Lennoxtown,G66 7JJ,01360 327300,3123
+43275,2,Drs Lafferty & Meek,Wallacewell Medical Centre,264 Wallacewell Road,Glasgow,G21 3RW,0141 558 6178,2740
+43294,4,"Drs Craig, Douglas, Cherry & Mckean",191 Denmark Street,Glasgow,0,G22 5SS,0141 336 8038,4076
+43307,2,Dr Pamela Geddes & Dr Gordon Campbell,Milton Medical Centre,"109 Egilsay Street, Milton",Glasgow,G22 7JL,0141 772 1183,2913
+43311,5,The Maryhill Red Practice,Maryhill Health Centre,41 Shawpark Street,Glasgow,G20 9DR,0141 531 8830,5853
+43326,3,Fernbank Medical Centre,194 Fernbank Street,Glasgow,0,G22 6BD,0141 435 1500,5642
+43345,3,"Drs M Buchanan, D Murphy & S Ness",Park Surgery,10 Saramago Street,Kirkintilloch,G66 3BF,0141 776 2468,3656
+43415,2,Drs Davda & McGroarty,York Place Surgery,10 Union Street,Kirkintilloch,G66 1DG,0141 776 1273,2072
+43453,2,Dr Webster & Partners,Woodside Health Centre,Barr Street,Glasgow,G20 7LR,0141 531 9570,6534
+43487,1,Dr R.T.A. Boyle,Springburn Health Centre,200 Springburn Way,Glasgow,G21 1TR,0141 531 9600,1289
+43504,6,"Drs Harris, Milburn, Brown, Candy & Gourlay",Springburn Health Centre,200 Springburn Way,Glasgow,G21 1TR,0141 531 9630,6620
+43538,1,Dr S J Langridge,Possilpark Health & Care Centre,99 Saracen Street,Glasgow,G22 5AP,0141 800 0860,2313
+43542,2,Dr Luis Alguero,Possilpark Health & Care Centre,99 Saracen Street,Glasgow,G22 5AP,0141 800 0820,2495
+43557,1,Dr Paul Lyons,Brackenbrae Surgery,"91 Kirkintilloch Road, Bishopbriggs",Glasgow,G64 2AA,0141 772 2241,1883
+43576,19,Barclay Medical Practice,Maryhill Health Centre,41 Shawpark Street,Glasgow,G20 9DR,0141 531 8811,32362
+46019,7,Townhead Medical Practice,Townhead Health Centre,16 Alexandra Parade,Glasgow,G31 2ES,0141 531 8945,10718
+46023,2,Dr A.Ali & Dr A.M.Mackenzie,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 531 6620,2831
+46057,6,Drs Ryan &  McAlavey,Glenmill Medical Centre,1191 Royston Road,Glasgow,G33 1EY,0141 770 4052,6680
+46061,5,Parade Group Practice,Townhead Health Centre,16 Alexandra Parade,Glasgow,G31 2ES,0141 531 8970,13563
+46081,9,The Cairns Practice,Shettleston Health Centre,420 Old Shettleston Road,Glasgow,G32 7JZ,0141 531 6220,9335
+46095,2,Drs Mckenzie & Burns,Parkhead Health Centre,101 Salamanca Street,Glasgow,G31 5BA,0141 531 9070,3199
+46108,2,Dr Raymond Orr & Partners,214 Meadowpark Street,Glasgow,0,G31 2TE,0141 554 0464,3573
+46112,3,"Drs Lam, Macbeth &  Wilson",Gilbertfield Medical Centre,67 Gilbertfield Street,Glasgow,G33 3TU,0141 774 5987,4916
+46127,2,Annfield Medical Centre,16 Annfield Place,Glasgow,0,G31 2XE,0141 554 2989,2326
+46131,3,Crail Medical Practice,245 Tollcross Road,Glasgow,0,G31 4UW,0141 554 3199,4246
+46146,3,Carntyne Medical Centre,275 Carntyne Road,Glasgow,0,G32 6JP,0141 531 9060,4118
+46151,1,Dr M Khan,12/14 Tullis Street,Glasgow,0,G40 1HN,0141 531 6595,1364
+46165,3,Dr S Ross,Shettleston Health Centre,420 Old Shettleston Road,Glasgow,G32 7JZ,0141 531 6250,3675
+46184,7,Main Street Medical Centre,40 Main Street,Glasgow,0,G40 1HA,0141 953 5600,6390
+46201,3,Dr O'Neil & Partners,Lightburn Medical Centre,930 Carntyne Road,Glasgow,G32 6NB,0141 778 0440,3044
+46216,10,McGlone Practice,Baillieston Health Centre,"20 Muirside Road, Baillieston",Glasgow,G69 7AD,0141 531 8050,13236
+46221,4,"Drs Andersen, Dawson, Mutch & Smith",Easterhouse Health Centre,9 Auchinlea Road,Glasgow,G34 9HQ,0141 531 8180,4847
+46235,4,"Drs Lafferty, Macphee,  Dames & Smith",Parkhead Health Centre,101 Salamanca Street,Glasgow,G31 5BA,0141 531 9050,4688
+46240,1,Dr D.S.Dhami,Easterhouse Health Centre,9 Auchinlea Road,Glasgow,G34 9HQ,0141 531 8160,1687
+46292,3,Dr Mccallum & Dr  Gardiner,Lightburn Medical Centre,930 Carntyne Road,Glasgow,G32 6NB,0141 764 1666,3492
+46305,4,The Muirside Medical Practice,Baillieston Health Centre,"20 Muirside Road, Baillieston",Glasgow,G69 7AD,0141 531 8040,7320
+46339,3,Westmuir Medical Centre,The Westmuir Medical Practice,109 Crail Street,Glasgow,G31 5RA,0141 554 4253,3946
+46343,7,Tollcross Medical Centre,1101-1105 Tollcross Road,Glasgow,0,G32 8UH,0141 778 2717,7340
+46377,1,Dr G B Strain,804 Cumbernauld Road,Riddrie,Glasgow,G33 2EH,0141 770 5234,1448
+46381,3,Drs Day & Churches,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 531 6610,2620
+46396,2,Dr M P Hamayun & Dr M R Masood,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 531 6666,1556
+46428,2,Drs Connaughton & Sudomir,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 550 3822,4416
+46447,1,Dr M Saleem,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 531 6670,1395
+46451,9,Newhills Medical Practice,Easterhouse Health Centre,9 Auchinlea Road,Glasgow,G34 9HQ,0141 531 8170,9571
+46471,4,"Dr Wilson, Dr Mcginley & Dr Sheppard",Easterhouse Health Centre,9 Auchinlea Road,Glasgow,G34 9HQ,0141 531 8150,2557
+46521,3,"Drs Cheung, Al-Agilly & Morgan",463 Edinburgh Road,Glasgow,0,G33 3AL,0141 770 4044,5701
+46555,4,Abercromby Practice,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,01415316630,3856
+46560,5,The Whitevale Medical Group,30 Whitevale Street,Glasgow,0,G31 1QS,0141 554 4536,5242
+46574,1,Dalmarnock Family Medical Practice,Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141 531 6600,1386
+46589,2,Homeless Health & Resource Services,55 Hunter Street,Glasgow,0,G4 0UP,0141 553 2801,177
+46606,3,"Drs Dunn, Lynas & Rodgers",Bridgeton Health Centre,201 Abercrombie Street,Glasgow,G40 2DA,0141 531 6640,3383
+46611,3,"Dr Ansari, Dr Kapadia & Dr Khan Practice",Bridgeton Health Centre,201 Abercromby Street,Glasgow,G40 2DA,0141-531-6650,2061
+49041,7,Practice B,Govanhill Health Centre,233 Calder Street,Glasgow,G42 7DR,0141 531 8370,11429
+49074,2,Drs Mills & Marshall Practice,Gorbals Health Centre,45 Pine Place,Glasgow,G5 0BQ,0141 531 8250,2879
+49093,2,Dr Akhtar & Dr Kousar,660 Eglinton Street,Glasgow,0,G5 9RP,0141 429 1421,2574
+49106,8,"Drs McEvinney, Wright,  McLaughlin & Levine",44 Croftfoot Road,Glasgow,0,G44 5JT,0141 634 6333,7277
+49130,3,Drs McGivern & Murthy,148 Battlefield Road,Glasgow,0,G42 9JT,0141 632 6310,4732
+49144,8,Dr W McKean & Partners,162 Nithsdale Road,Glasgow,0,G41 5RU,0141 424 1831,10158
+49159,4,"Drs Boardman, King, Earl & Boyd",75 Busby Road,Clarkston,Glasgow,G76 7BW,0141 644 2668,6327
+49178,4,Dr K.S. Chiah & Partners,Govanhill Health Centre,233 Calder Street,Glasgow,G42 7DR,0141 531 8385,5918
+49197,1,Sheddens Medical Practice,The Sheddens Medical Practice,"5a Eaglesham Road, Clarkston",Glasgow,G76 7BU,0141 644 2356,2062
+49200,4,"Drs Geddes, Turner & O'Brien",123 Kilmarnock Road,Glasgow,0,G41 3YT,0141 649 6231,4911
+49214,3,"Drs Morrice, Masson & Geddes",75 Busby Road,Clarkston,Glasgow,G76 7BW,0141 6442666,6723
+49248,2,Merrylee Medical Centre,142 Clarkston Road,Glasgow,0,G44 3DH,0141 633 2345,3944
+49267,4,Butterbiggins Medical Centre,134 Butterbiggins Road,Glasgow,0,G42 7AF,0141 423 1398,4823
+49271,5,"Drs Leslie, McNicol, Boyd & Stevenson",Shawlands Surgery,1413 Pollokshaws Road,Glasgow,G41 3RG,0141 632 9141,5333
+49286,1,Queens Park Medical Practice,181 Queen's Drive,Glasgow,0,G42 8QD,0141 423 3474,2787
+49318,2,The MacLeod Practice,9 Baker Street,Glasgow,0,G41 3YE,0141 632 4962,1793
+49337,8,Mearns Medical Centre,30 Maple Avenue,Newton Mearns,Glasgow,G77 5BQ,0141 639 2753,11694
+49375,1,Dr Linda J Wright,Toryglen Medical Centre,20 Glenmore Avenue,Glasgow,G42 0EH,0141 647 3020,1773
+49411,1,Dr M.M. Sharif,Kings Park Surgery,274 Kings Park Avenue,Glasgow,G44 4JE,0141 414 6900,1618
+49445,3,"Drs Frame, Cooper & Hamilton",261 Fenwick Road,Giffnock,Glasgow,G46 6JX,0844 477 1898,5029
+49464,2,Broomburn Medical Centre,257 Mearns Road,Newton Mearns,Glasgow,G77 5LU,0141 639 3644,2823
+49553,5,"Drs Fitchett, Barr & Rennie",Grantley Medical Practice,1 Grantley Street,Glasgow,G41 3PT,0141 632 4698,4505
+49568,2,Greenlaw Medical Practice,"Unit 3, 3 Greenlaw Place",0,Newton Mearns,G77 6GR,0141 639 8833,3939
+49604,5,"Drs Gordon, Best & McIntyre",Gorbals Health Centre,45 Pine Place,Glasgow,G5 0BQ,0141 531 8290,6090
+49619,2,Elmwood Medical Practice,3 Elmwood Avenue,Newton Mearns,Glasgow,G77 6EH,0141 639 2478,3192
+49623,7,Carolside Medical Centre,1/2 Carolside Gardens,Clarkston,Glasgow,G76 7BX,0141 644 3511,8209
+49638,8,The Maclean Medical Practice,30 Gilmour Street,Eaglesham,Glasgow,G76 0AT,01355 302221,8423
+49661,2,The Shields Centre,80 McCulloch Street,Glasgow,0,G41 1NX,0141 800 7320,4561
+49676,2,Regency Medical Practice,80 McCulloch Street,Pollockshields,Glasgow,G41 1NX,0141 800 7310,3102
+49681,8,Mount Florida Medical Centre,183 Prospecthill Road,0,Glasgow,G42 9LQ,0141 632 4004,8474
+49712,1,Dr I A Hussain,The Park Surgery,7 Baker Street,Glasgow,G41 3YA,0141 632 0203,1968
+49751,7,Castlemilk Group Practice,Castlemilk Health Centre,71 Dougrie Drive,Glasgow,G45 9AW,0141 531 8585,10385
+49765,7,The Ker Practice,30 Croftfoot Road,Glasgow,0,G44 5JT,0141 531 8600,10496
+49770,3,Kingspark Surgery,274 Kings Park Avenue,Glasgow,0,G44 4JE,0141 632 1824,4557
+49784,8,Williamwood Practice,85 Seres Road,Clarkston,Glasgow,G76 7NW,0141 620 0333,9666
+52005,8,Midlock Medical Centre,7 Midlock Street,Glasgow,0,G51 1SL,0141 427 4271,8412
+52010,2,Drs MacCuish & Kakar,59 Farne Drive,Glasgow,0,G44 5DQ,0141 637 9828,1746
+52024,5,Thurston Road Medical Practice,140 Thurston Road,Glasgow,0,G52 2AZ,0141 883 8838,3812
+52039,5,"Drs Fellows,  Fraser & Carse",Govanhill Health Centre,233 Calder Street,Glasgow,G42 7DR,0141 531 8361,5739
+52043,6,Braidcraft Medical Centre,200 Braidcraft Road,Glasgow,0,G53 5QD,0141 882 3396,6532
+52058,6,The Crescent Medical Practice,12 Walmer Crescent,Glasgow,0,G51 1AT,0141 427 0191,5321
+52062,7,The David Elder Medical Practice,Govan Health Centre,5 Drumoyne Road,Glasgow,G51 4BJ,0141 531 8470,5770
+52096,6,"Drs Cameron, Herron, Marshall & Ratter",Govan Health Centre,5 Drumoyne Road,Glasgow,G51 4BJ,0141 531 8460,4741
+52109,2,Drs Chita & Hayes,Ibroxholm Medical Centre,532 Paisley Road West,Glasgow,G51 1RN,0141 427 2504,3067
+52128,11,Dr Ferguson & Partners,Arran GP Surgery,40 Admiral Street,Glasgow,G41 1HU,0141 429 2626,10222
+52147,1,Dr Raheela Bhatti,74 Kyleakin Road,Arden,Glasgow,G46 8DH,0141 638 1464,1380
+52151,4,Waverley Park Medical Practice,19 Dinmont Road,Glasgow,0,G41 3UJ,0141 632 8883,4409
+52185,2,Drs Hilary Mcnaughtan &  Patrick J O'Neill,Cardonald Medical Centre,1831 Paisley Road West,Glasgow,G52 3SS,0141 211 6660,3520
+52202,4,"Drs Shields, Dale & Blackwood",Rutland Surgery,24 Govan Road,Glasgow,G51 1HS,0141 418 1080,3576
+52217,1,Dr Mckeeve,Kinning Park Medical Centre(Ailsa),42 Admiral Street,Glasgow,G41 1HU,0141 429 0913,2246
+52221,4,"Drs Quigley, Canning, Dorward & Wedlock",Thornliebank Health Centre,20 Kennishead Road,Glasgow,G46 8NY,0141 531 6999,5866
+52241,3,"Dr Mair, Dr Pettigrew & Dr Martin",1600-1604 Paisley Road West,Ibrox,Glasgow,G52 3QN,0141 882 4567,5362
+52255,7,Drs McColl & McLaughlin,Thornliebank Health Centre,20 Kennishead Road,Glasgow,G46 8NY,0141 531 6901,6961
+52260,2,Dr Alam's Surgery,"""Mull"", Kinning Park Medical Centre",36 Admiral Street,Glasgow,G41 1HU,0141 429 0943,1763
+52293,4,"Drs Treadgold, Duffy & Morley",Pollok Health Centre,21 Cowglen Road,Glasgow,G53 6EQ,0141 531 6860,4818
+52330,8,Yellow Practice,Govan Health Centre,5 Drumoyne Road,Glasgow,G51 4BJ,0141 531 8490,4090
+52344,6,Crookston Medical Practice,230 Dalmellington Road,Crookston,Glasgow,G53 7FY,0141 883 8887,5305
+52359,10,Dr K G Hardie & Partners,Govan Health Centre,5 Drumoyne Road,Glasgow,G51 4BJ,0141 531 8440,8674
+52382,2,Pollokshaws Medical Practice,26 Wellgreen,0,Glasgow,G43 1RR,0141 620 4300,3244
+52397,5,Wellgreen Medical Practice,Pollokshaws Medical Centre,26 Wellgreen,Glasgow,G43 1RR,0141 620 4310,6224
+52400,3,Dr Ghaus Medical Practice,Pollok Health Centre,21 Cowglen Road,Glasgow,G53 6EQ,0141 531 6870,5517
+52414,8,"Drs Semple, Finney, Datta & Fisken",Cardonald Medical Centre,1831 Paisley Road West,Glasgow,G52 3SS,0141 826 2548,5248
+85032,3,Alcluith Practice,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811811,2645
+85047,4,Drs Mcmaster & Partners,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811862,5747
+85066,8,Levenside Medical Practice,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811844,6102
+85071,2,Dr K N Lynn & Dr J M Mcdevitt,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811855,3473
+85085,2,Dr Neilson & Dr McGonagle,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811851,2128
+85090,4,Dr Stephen H Dunn & Partners,The Health Centre,Station Road,Dumbarton,G82 1PW,01389 811833,4019
+85225,7,The Lennox Practice,The Vale Centre for Health & Care,Main Street,ALEXANDRIA,G83 0UA,01389 828616,4840
+85230,8,Dr N S D Mackay & Partners,75 Bank Street,Alexandria,0,G83 0NB,01389 752626,8290
+85259,3,"Drs Furneaux, Mclachlan & Meikle",The Vale Centre for Health & Care,Main Street,ALEXANDRIA,G83 0UE,01389 828600,3432
+85403,10,Oak View Medical Practice,The Vale Centre for Health & Care,Main Street,Alexandria,G83 0UA,01389 752650,9221
+86001,3,Gourock Medical Practice,Gourock Health Centre,181 Shore Street,Gourock,PA19 1AQ,01475 502451,7781
+86040,4,Dr M Kohlhagen & Partners,The Health Centre,20 Duncan Street,Greenock,PA15 4LY,01475 501338,5981
+86054,7,Orangefield Practice,The Health Centre,20 Duncan Street,Greenock,PA15 4LY,01475 501334,7396
+86162,2, Dr D A Foster & Dr A E Crawford,The Health Centre,20 Duncan Street,Greenock,PA15 4LY,01475 501246,3201
+86177,6,Ardgowan Medical Practice,2 Finnart Street,Greenock,0,PA16 8HW,01475 888155,9087
+86181,6,Mount Pleasant Practice,Station View Health Centre,84 Holmscroft Street,Greenock,PA15 4DG,01475 884 300,6737
+86196,3,"Drs Simpson, Luty & Ormond",'Dorema',Bridge Of Weir Road,Kilmacolm,PA13 4AP,01505 872155,2999
+86209,3,Drs E Manasses & Partners,The New Surgery,The Cargill Centre,"Lochwinnoch Road, Kilmacolm",PA13 4LE,01505 872844,3420
+86228,3,"Dr Hogan, Allen & Quinn",The Health Centre,20 Duncan Street,Greenock,PA15 4LY,01475 501337,2884
+86271,3,"Drs McCartney, Addiscott & Dunnet",The Health Centre,2 Bay Street,Port Glasgow,PA14 5EW,01475 745321,3544
+86285,3,"Drs Macdonald, Mitchell & Rolland",The Health Centre,2 Bay Street,Port Glasgow,PA14 5EW,01475 506038,3685
+86317,2,Dr J G Bogan And Dr C MacDonald,The Health Centre,2 Bay Street,Port Glasgow,PA14 5EW,01475 506004,1914
+86321,5,"Drs Wilkie, Farrell, Campbell & Pope",The Health Centre,2 Bay Street,Port Glasgow,PA14 5EW,01475 745321,3809
+86336,7,"Drs Mutch, Holms, Boyce & Dooley",Medical Centre,4 Dubbs Place,Port Glasgow,PA14 5UD,01475 705604,4675
+86341,6,The Roxburgh Practice,Station View Health Centre,84 Holmscroft Street,Greenock,PA15 4DG,01475 558300,5587
+86355,6,Regent Medical Practice,The Health Centre,20 Duncan Street,Greenock,PA15 4LY,01475 553560,9465
+87019,6,Gleniffer Medical Group,Barrhead Health & Care Centre,213 Main Street,Barrhead,G78 1SW,0,8273
+87023,6,Dr  A Capaldi & Partners,The Medical Centre,1 High Street,Neilston,G78 3HJ,0141 880 6505,3522
+87108,2,The Oaks Medical Practice,"1st Floor, Barrhead Health & Care Centre",213 Main Street,Barrhead,G78 1SW,0141 800 7085,3561
+87112,8,Bishopton Medical Practice,Greenock Road,Bishopton,Renfrewshire,PA7 5AW,01505 863223,7281
+87146,8,Dr Smith & Partners,"The Surgery, Kirk Road",Houston,Renfrewshire,PA6 7AR,01505 613240,10295
+87165,7,Levern Medical Group,Barrhead Health & Care Centre,213  Main Street,Barrhead,G78 1SW,0141 800 7000,8889
+87184,5,"Drs Murray, Macpherson, Hanley, Tobin & O'Connor",Mains Medical Centre,300 Mains Drive,Erskine,PA8 7JQ,0141 812 3230,8659
+87235,1,Bridgewater Medical Centre,15 Kilpatrick Drive,Erskine,0,PA8 7AF,0141 812 2022,2174
+87240,5,Bargarran Medical Practice,Erskine Clinic,Barrgarran Centre,Erskine,PA8 6BS,0141 314 9313,4344
+87292,5,Ludovic Medical Practice,60 Quarry Street,Johnstone,0,PA5 8EY,01505 324348,6762
+87305,4,Quarryside Practice,Linden Medical Centre,25 Floors Street,Johnstone,PA5 8PZ,01505 321733,4606
+87324,4,Ravenswood Surgery,Thomson Avenue,Johnstone,0,PA5 8SU,01505 331979,6420
+87339,3,"Drs Cunning, Howie & Smith",Riverview Med Centre,6/8 George Street,Johnstone,PA5 8SL,01505 320208,5099
+87343,4,Dr Cassidy & Partners,Linden Medical Centre,25 Floors Street,Johnstone,PA5 8PZ,01505 320151,3984
+87409,5,Dr Richmond & Partners,Linwood Health Centre,5 Bridge Street,Linwood,PA3 3DB,01505 321051,5662
+87432,4,Mistylaw Medical Practice,31 Main Street,Lochwinnoch,0,PA12 4AH,01505 842200,4624
+87466,6,The Charleston Surgery,5 South Campbell St,Paisley,0,PA2 6LR,0141 889 4373,5893
+87471,8,Anchor Mill Medical Practice,4 Saucel Crescent,Paisley,0,PA1 1UB,0141 889 8809,7994
+87485,1, Dr A Mahmood,The Tannahill Centre,76 Blackstoun Road,Paisley,PA3 1NT,0141 889 7631,3670
+87490,7,King Street Surgery,The Surgery,15 King Street,Paisley,PA1 2PS,0141 889 3144,9382
+87502,5,The Consulting Rooms,21 Neilston Rd,Paisley,0,PA2 6LW,0141 889 5277,7155
+87517,3,Glenburn Medical Practice,Glenburn Health Centre,Fairway Avenue,Paisley,PA2 8DX,0141 884 7788,3214
+87521,3,Drs Crampsey & Galloway,Kelburn Practice,Northcroft Medical Centre,Paisley,PA3 4AD,0141 889 3356,4212
+87541,7,The Greenlaw Practice,Northcroft Medical Centre,Paisley,0,PA3 4AD,0141 889 8465,6608
+87555,5,The Mirin Practice,The Surgery,3 Glasgow Road,Paisley,PA1 3QS,0141 889 2604,8900
+87560,4,The Love Street Medical Centre,40 Love Street,Paisley,0,PA3 2DY,0141 531 3430,5780
+87574,3,Drs.Mason And Mcdade,St James Medical Centre,19 St James Street,Paisley,PA3 2HQ,0141 889 5505,3134
+87606,6,The Barony Practice,Northcroft Medical Centre,Paisley,0,PA3 4AD,0141 889 3732,6209
+87625,7,Abbey Medical Centre,Lonend,Paisley,0,PA1 1SU,0141 889 4088,10604
+87697,4,Braehead Medical Practice,Renfrew Health Centre,10 Ferry Road,Renfrew,PA4 8RU,0141 207 7480,6806
+87700,6,Clydeview Medical Practice,Renfrew Health Centre,10 Ferry Road,Renfrew,PA4 8RU,0141 207 7730,8189
+87714,3,Kingsinch Medical Practice,Renfrew Health Centre,10 Ferry Road,Renfrew,PA4 8RU,0141 207 7700,6524
+87729,2,Westfield Medical Practice,Linden Medical Centre,25 Floors Street,Johnstone,PA5 8PZ,01505 337999,4944
+HIGHLAND,401, , , , , , , 
+55003,3,Thurso & Halkirk Medical Practice,69 Princes Street,Thurso,Caithness,KW14 7DH,01847895986,6212
+55037,3,Riverbank Surgery,Janet Street,Thurso,Caithness,KW14 7AR,01847 892009,5514
+55041,21,Nairn Healthcare Group,Nairn Town and County Hospital,Cawdor Road,Nairn,IV12 5EE,01667 452096,14740
+55075,2,Dunbeath Surgery,Achorn Road,Dunbeath,Caithness,KW6 6EZ,01593 731205,544
+55080,2,Canisbay & Castletown Joint Medical Practice,Murrayfield,Castletown,0,KW14 8TY,01847 821205,2907
+55094,2,Lybster Medical Centre,Althorpe Street,Lybster,Caithness,KW3 6BQ,01593721216,1216
+55131,3,Riverview Medical Practice,Wick Medical Centre,Martha Terrace,Wick,KW1 5EL,01955 602355,7584
+55145,1,The Pearson Practice,Wick Medical Centre,Martha Terrace,Wick,KW1 5EL,01955605885,2192
+55183,2,Armadale Medical Practice,Armadale,Thurso,Caithness,KW14 7SA,01641541212,829
+55201,5,Dornoch Medical Practice,Shore Road,Dornoch,Sutherland,IV25 3LS,01862 810213,2569
+55220,2,Golspie Medical Practice,Golspie Health Centre,Fountain Road,Golspie,KW10 6TH,01408633221,2018
+55249,2,Lairg Health Centre,Main Street,Lairg,0,IV27 4DD,01549402007,1180
+55253,1,Assynt Medical Practice,6 Main Street,Lochinver,Sutherland,IV27 4JZ,01571844226,927
+55272,2,Tongue Medical Practice,Tongue Health Centre,St Andrews Glebe,Tongue,IV27 4XB,01847611213,535
+55287,4,Helmsdale/Brora Med Practice,Brora Health Centre,Station Square,Brora,KW9 6QJ,01431 821225,2437
+55291,4,Creich Surgery,Cherry Grove,Bonar Bridge,0,IV24 3EP,01863 766379,1622
+55304,1,"Scourie, Kinlochbervie and Durness Medical Practice",Health Centre,Kinlochbervie,Sutherland,IV27 4RP,01971 521260,904
+55338,8,Alness/Invergordon Med Prcte,Robertson Health Centre,Dalmore Road,Alness,IV17 0UN,01349 882229,12955
+55342,1,Applecross,By Strathcarron,Ross And Cromarty,0,IV54 8LS,01520744252,240
+55357,3,Aultbea/Gairloch Med Practice,Birchburn Surgery,Birchburn,Aultbea,IV22 2HU,01445731221,2195
+55361,2,Cromarty Medical Practice,Allan Square,Cromarty,Ross-Shire,IV11 8YF,01381600224,1093
+55376,10,Dingwall Medical Group,Dingwall Health Centre,Ferry Road,Dingwall,IV15 9QS,01349 863034,11381
+55381,5,Fortrose Medical Practice,Station Road,Fortrose,Ross & Cromarty,IV10 8SY,01381622000,4996
+55395,2,Lochcarron Medical Partnership,The Ferguson Medical Centre,Lochcarron,Rosshire,IV54 8YD,01520722215,937
+55408,4,Munlochy Medical Practice,The Surgery,Brae Terrace,Munlochy,IV8 8NG,01463811200,2766
+55412,5,Strathpeffer Medical Practice,School Road,Strathpeffer,Ross & Cromarty,IV14 9AG,01997421455,3829
+55427,3,Tain & District Med Practice,The Health Centre,Craighill Terrace,Tain,IV19 1EU,01862 892203,3040
+55431,7,Tain & Fearn Area Med Practice,The Health Centre,Craighill Terrace,Tain,IV19 1EU,01862 892759,5691
+55446,2,Torridon Medical Practice,Fassaig,Torridon,Rossshire,IV22 2EZ,01445791223,413
+55451,6,Ullapool Health Centre,North Road,Ullapool,0,IV26 2XL,01854612015,2496
+55521,2,Carbost Medical Practice,The Surgery,Carbost,Skye And Lochalsh,IV47 8ST,01478640202,636
+55535,3,Dunvegan Medical Practice,Dunvegan Health Centre,Dunvegan,Isle Of Skye,IV55 8GU,01470521203,1701
+55554,1,Glenelg Health Centre,Allt Ruadh,Glenelg,0,IV40 8JD,01599522272,268
+55569,3,Kyle Medical Practice,Lochalsh Healthcare Centre,Station Road,Kyle Of Lochalsh,IV40 8AE,01599 534257,2569
+55573,7,Portree Medical Practice,Portree,Isle Of Skye,Skye And Lochalsh,IV51 9BZ,01478 612013,5459
+55605,3,Craig Nevis Surgery - Fort William,Craig Nevis Surgery,Fort William Health Centre,Camaghael,PH33 7AQ,01397702947,3566
+55610,6,Glen Mor Medical Practice - Fort William,Glen Mor Medical Practice,Fort William Health Centre,Camaghael,PH33 7AQ,01397703773,5516
+55624,4,Tweeddale Medical Practice - Fort William,Tweeddale Medical Practice,Fort William Health Centre,Camaghael,PH33 7AQ,01397 703136,5083
+55639,2,Kinlochleven Medical Practice,Kearan Road,Kinlochleven,0,PH50 4QU,01855831225,877
+55643,2,Lochaline Medical Practice,Morvern Medical Centre,Rowanbank,Lochaline,PA80 5XT,01967421252,316
+55662,2,Acharacle Medical Practice,The Pines Medical Centre,Acharacle,Argyll,PH36 4JU,01967 431231,1264
+55677,3,Small Isles Medical Practice - Isle of Eigg,Small Isles Medical Practice,Grianan,Isle Of Eigg,PH42 4RL,01687482427,171
+55696,5,The Aird Medical Practice - Beauly,The Aird Medical Practice,Ferry Road,Beauly,IV4 7EA,01463 782214,3015
+55709,6,Croyard Road - Beauly,The Surgery,Croyard Road,Beauly,IV4 7DT,01463 782794,5697
+55728,4,Drumnadrochit Health Centre,Lewiston,Drumnadrochit,Inverness,IV63 6UL,01456450577,2402
+55732,2,Cill Chuimein Medical Centre - Fort Augustus,Cill Chuimein Medical Centre,Fort Augustus,Inverness,PH32 4BH,01320 366216,1415
+55747,7,Loch Ness East And Strathnairn - Foyers,Loch Ness East And Strathnairn,The Medical Centre,Foyers,IV2 6YB,01456486224,962
+55751,6,Culloden Surgery,Keppoch Road,Culloden,Inverness,IV2 7LL,01463 793400,5791
+55766,8,Culloden Medical Practice,Keppoch Road,Culloden,Inverness,IV2 7LL,01463 793777,6435
+55817,10,Kingsmills Medical Practice,18 Southside Road,Inverness,0,IV2 3BG,01463 235245,10151
+55836,7,Fairfield Medical Practice,22a Abban Street,Inverness,0,IV3 8HH,01463 713939,6337
+55841,10,Riverside Medical Practice,Riverside Medical Centre,"Ballifeary Lane, Ness Walk",Inverness,IV3 5PW,01463 715999,10015
+55860,2,Kinmylies Medical Practice,Assynt Road,Inverness,0,IV3 8PB,01463 239865,3109
+55874,6,43 Southside Road,Inverness,0,0,IV2 4XA,01463 710222,4944
+55889,4,Burnfield Medical Practice,Harris Road,Inverness,0,IV2 3PF,01463 220077,5515
+55893,6,Crown Medical Practice,12 Crown Avenue,Inverness,0,IV2 3NF,0844 576 9977,6948
+55911,8,Aviemore Medical Practice,Aviemore Health Centre,Aviemore,Badenoch And Strathspey,PH22 1SY,01479 810258,5150
+55925,11,Grantown On Spey Health Centre,Castle Road East,Grantown On Spey,0,PH26 3HR,01479872484,5244
+55930,5,Kingussie Medical Practice,Old Distillery Surgery,Ardvonie Park,Kingussie,PH21 1ET,01540 661 233,2948
+55944,1,Gergask Surgery,Laggan,By Newtonmore,0,PH20 1AH,01528 544225,450
+56006,12,Cairn Medical Practice,15 Culduthel Road,Inverness,0,IV2 4AG,01463 712233,9547
+56011,1,Dunedin Medical Practice,Temple Crescent,Inverness,0,IV2 4TP,01463 712157,2481
+56025,4,Ballachulish Medical Practice,East Laroch,Ballachulish,Argyll,PH49 4JB,01855 811226,1559
+56030,2,Mallaig And Arisaig Medical Practice,Mallaig Health Centre,Victoria Road,Mallaig,PH41 4RN,01687 462202,1800
+56523,5,SOUTH SKYE MEDICAL PRACTICES,BROADFORD HEALTH CENTRE,"HIGH ROAD, BROADFORD",ISLE OF SKYE,IV49 9AA,01471 822460,2673
+84006,1,Dr Stuart Cairns & Partner,Port Appin Surgery,Port Appin,Argyll,PA38 4DE,01631 730271,817
+84030,8,Campbeltown Medical Practice,The Health Centre,Stewart Road,Campbeltown,PA28 6AT,01586 552105,6314
+84063,1,Dr Malcolm R Elder,The Carradale Surgery,Carradale,Argyll,PA28 6QG,01583 431376,585
+84097,1,Dr C O'Neill,Coll Medical Practice,Arinagour,Isle of Coll,PA78 6SY,01879 230326,200
+84129,3,Colonsay Surgery,Scalasaig,Isle of Colonsay,0,PA61 7YW,01951 200328,125
+84191,5,Taynuilt Medical Practice,The Surgery,Connel,Argyll,PA37 1PH,01631 710229,5136
+84237,3,"Drs Hall, Brennan & McLaughlin",246 Argyll Street,Dunoon,0,PA23 7HW,01369 703252,3894
+84241,3,Church Street Surgery,30 Church Street,Dunoon,0,PA23 8BG,01369 703482,4211
+84256,2,Dr Taylor-Kavanagh & Partner,246 Argyll St,Dunoon,0,PA23 7HW,01369 703279,3005
+84275,2,Easdale Medical Practice,The Surgery,Clachan Seil,Isle of Seil,PA34 4TL,01852 300223,1020
+84307,7,The Furnace/Inveraray Surgery,Furnace,0,Argyll,PA32 8XN,01499 500207,1165
+84331,1,Bowmore Medical Practice,Islay Hospital,Gortonvogie Road,"Bowmore, Isle of Islay",PA43 7JD,01496 301039,1235
+84345,3,Port Ellen Practice,"The Surgery, Geirhilda",Back Road,"Port Ellen, Isle of Islay",PA42 7DR,01496 302103,1220
+84350,4,Port Charlotte,Isle of Islay,0,0,PA48 7UD,01496 850210,833
+84383,2,Jura Medical Practice,Glencairn Surgery,Craighouse,Isle of Jura,PA60 7XG,01496 820218,215
+84415,9,Lochgilphead Medical Centre,Mid Argyll Community Hosp & Integrated Care Ctre,Blarbuie Road,Lochgilphead,PA31 8JZ,01546 462002,6630
+84449,3,Dr P M R Von Kaehne,The Lochgoilhead Medical Centre,Lochgoilhead,0,PA24 8AA,01301 703258,482
+84504,1,Dr Frank Teunisse,Salen Surgery,"Pier Road, Salen",Isle of Mull,PA72 6JL,01680 300327,950
+84519,3,The Surgery,Rockfield Road,Tobermory,Isle of Mull,PA75 6PN,01688 302013,1571
+84523,1,The Surgery,Bunessan,Isle of Mull,0,PA67 6DG,01681 700261,670
+84581,13,Lorn Medical Centre,Soroba Road,Oban,0,PA34 4HE,01631 563175,11084
+84646,5,The Bute Practice,The Health Centre,High Street,Rothesay,PA20 9JL,01700 502290,6330
+84684,1,Dr Robert S B Coull,Strachur Medical Practice,Dalnacraig,"Strachur, Cairndow",PA27 8BX,01369 860224,866
+84716,2,Drs Cameron and Tittmar,Riverbank Surgery,Kilmun,Argyll,PA23 8SE,01369 840279,1552
+84740,2,Tarbert Medical Practice,Campbeltown Road,Tarbert,Argyll,PA29 6TY,01880 820219,1640
+84773,2,Dr A MacGregor & Dr N Hallum,Kyles Medical Centre,Tighnabruaich,Argyll,PA21 2BE,01700 811207,1015
+84805,3,Tiree Medical Practice,Baugh Surgery,Isle of Tiree,0,PA77 6UN,01879 220323,709
+84810,1,Kintyre Medical Group,Muasdale Surgery,Muasdale,"Tarbert, Argyll",PA29 6XD,01583 421206,1117
+85009,3,Dr David F Troup & Dr Chiara E Berardelli,Arrochar Surgery,Kirkfield Place,Arrochar,G83 7AE,08444 772520,1087
+85117,1,Dr J D McKelvie & Partner,Garelochhead Medical Centre,McAulay Place,"Feorlin Way, Garelochhead",G84 0SL,01436 810370,2020
+85141,7,Millig Practice,The Medical Centre,12 East King Street,Helensburgh,G84 7QL,01436 673366,10080
+85155,8,Dr McLachlan & Partners,The Medical Centre,12 East King Street,Helensburgh,G84 7QL,01436 672277,8257
+85193,2,Drs Doyle & Falconer,Kilcreggan Health Centre,Kilcreggan,Argyll,G84 0JL,01436 842156,2297
+LANARKSHIRE,455, , , , , , , 
+60054,11,Jamieson Medical Practice,2 Cliffvale Road,CHRYSTON,0,G69 9DW,0141 779 2228,13323
+60069,2,Moodiesburn Medical Centre,69 Glenmanor Avenue,MOODIESBURN,0,G69 0LB,01236 872276,1610
+60073,1,Nalagatla Medical Practice,146 Cumbernauld Road,STEPPS,0,G33 6HA,0141 779 2330,3616
+60088,2,Stepps Surgery,131 Cumbernauld Road,STEPPS,0,G33 6EY,0141 779 4445,2535
+60092,7,The Stonelaw Practice,Rutherglen Health Centre,130 Stonelaw Road,RUTHERGLEN,G73 2PQ,0141 531 6030,11275
+60105,4,Wardlaw Medical Practice,Rutherglen Primary Care Centre,130 Stonelaw Road,RUTHERGLEN,G73 2PQ,0141 531 6020,5706
+60110,3,Drs Tierney & Canning,Rutherglen Primary Care Centre,"130 Stonelaw Road, Rutherglen",Glasgow,G73 2PQ,0141 613 4757,4990
+60124,1,Dr C M McCann,Ardoch Medical Centre,6 Ardoch Grove,CAMBUSLANG,G72 8HA,0141 641 3827,1346
+60139,3,Overtoun Medical Practice,Rutherglen Health Centre,130 Stonelaw Road,RUTHERGLEN,G73 2PQ,0141 531 6025,4812
+60143,9,North Avenue Surgery,18 North Avenue,CAMBUSLANG,0,G72 8AT,0141 641 3037,12143
+60158,1,Dr R Afuakwah,81 Mill Street,RUTHERGLEN,0,G73 2LD,0141 647 6294,1537
+60162,1,Dr Oliver Frenschock,27 Main Street,CAMBUSLANG,0,G72 7EX,0141 584 2500,1736
+60177,5,The Craigallian Avenue Practice,11 Craigallian Avenue,CAMBUSLANG,0,G72 8RW,0141 641 3129,7221
+60181,2,Dr Douglas J Bruce & Dr Stephen J Friel,Rutherglen Health Centre,130 Stonelaw Road,RUTHERGLEN,G73 2PQ,0141 531 4128,3955
+60196,1,The Campbell Practice,Rutherglen Health Centre,"130 Stonelaw Road, Rutherglen",GLASGOW,G73 2PQ,0141 531 4144,2078
+60209,2,Ardoch Medical Practice,Ardoch Medical Centre,Cambuslang,GLASGOW,G72 8HA,0141 641 1255,3239
+60213,4,The Well Medical Practice,Motherwell Health Centre,138-144 Windmillhill Street,MOTHERWELL,ML1 1TA,01698 265193,7390
+61038,1,Clarkston Medical Centre,114 Forrest Street,Airdrie,Lanarkshire,ML6 7AG,01236 747611,1127
+61061,5,Adam Avenue Practice,Dr R Clements & Partners,Airdrie Community Health Centre,"88 Graham Street, Airdrie",ML6 6DB,01236 763581,8517
+61131,4,Tinto Medical Practice,Airdrie Community Health Centre,88 Graham Street,Airdrie,ML6 6DB,01236 748488,4205
+61151,1,Bankhouse Medical Practice,Airdrie Community Health Centre,88 Graham Street,"Airdrie, Lanarkshire",ML6 6DB,01236 766983,3993
+61170,1,Dr D Walker,Airdrie Community Health Centre,88 Graham Street,Airdrie,ML6 6DB,01236 766446,1820
+61216,1,Centenary Surgery,9 Centenary Gardens,Coatbridge,0,ML5 4BY,01236 423355,2005
+61240,3,"Drs Fife, Docherty & Mccrum",Coatbridge Health Centre,1 Centre Park Court,Coatbridge,ML5 3AP,01236 433300,6697
+61288,1,Blairgrove Surgery,Coatbridge Health Centre,1 Centre Park Court,Coatbridge,ML5 3AP,01236 421434,2353
+61305,4,Dr PN Nahar & Partners,Kildrum Health Centre,Afton Road,Cumbernauld,G67 2EU,01236 721354,5713
+61324,3,Dr U Handa & Partners,Condorrat Health Centre,"16 Airdrie Road, Condorrat",Cumbernauld,G67 4DN,01236 733221,5072
+61339,7,Caledonia Medical Practice,North Carbrain Road,Town Centre,Cumbernauld,G67 1BJ,01236 731738,10147
+61343,8,Dr Carroll & Partners,Central Health Centre,"North Carbrain Road, Town Centre",Cumbernauld,G67 1BJ,01236 737214,12449
+61358,8,Kenilworth Medical Centre,Kenilworth Court,Greenfaulds,Cumbernauld,G67 1BP,01236 727816,12873
+61377,3,Dr JS Twaddle & Partners,Abronhill Health Centre,"Pine Road, Abronhill",Cumbernauld,G67 3BE,01236 723223,4602
+61381,1,Dr DJ Clifford,Abronhill Health Centre,"Pine Road, Abronhill",Cumbernauld,G67 3BE,01236 727654,2917
+61409,2,Dr SS Bawa,8 Centre Street,Glenboig,Lanarkshire,ML5 2RY,01236 872617,1418
+61447,9,Waverley Medical Practice,Coatbridge Health Centre,1 Centre Park Court,Coatbridge,ML5 3AP,01236 422311,18594
+61451,4,Coatbank Medical Practice,Coatbridge Health Centre,1 Centre Park Court,Coatbridge,ML5 3AP,01236 422950,8667
+61466,4,Atrium Medical Practice,Buchanan Centre,126-130 Main Street,Coatbridge,ML5 3BJ,01236 421211,6804
+61485,2,Church  Street  Practice,Buchanan Centre,126-130 Main Street,Coatbridge,ML5 3BJ,01236 422678,6418
+61502,9,Kilsyth Medical Partnership,Kilsyth Community Health Centre,Airdrie Road,Kilsyth,G65 9JE,01236 801677,14150
+61625,8,WELLWYND PRACTICE,AIRDRIE COMMUNITY HEALTH CENTRE,88 GRAHAM STREET,AIRDRIE,ML6 6DB,01236 769333,21550
+61630,2,Thistle Medical Practice,Airdrie Community Health Centre,88 Graham Street,Airdrie,ML6 6DB,01236 748900,5879
+61644,5,Strathcalder Practice,Alison Lea Medical Centre,Calderwood,EAST KILBRIDE,G74 3HW,01355 227220,8520
+62011,5,Mossend Surgery,494 Main Street,Bellshill,Lanarkshire,ML4 1DQ,01698 748421,6326
+62031,6,Bruce Medical Centre,2 Pollock Street,Mossend,Bellshill,ML4 1QD,01698 747666,9402
+62045,1,Dr CM Mckibbin,Fullwood Clinic,120 Stevenson  Street,New Stevenson,ML1 4LT,01698 834488,2354
+62050,5,John Street Surgery,C/O Bellshill Community Health Clinic,Greenmoss Place,Bellshill,ML4 1PS,01698 747195,7811
+62115,1,Newarthill Medical Practice,15 Carfin Road,Newarthill,Lanarkshire,ML1 4DY,01698 732501,2836
+62120,2,Drs Rao/Raman,43/45 Main Street,Holytown,Lanarkshire,ML1 4TH,01698 732463,2955
+62219,4,High Mill Medical Practice,Carluke Community Health Centre,40 Chapel Street,Carluke,ML8 4BA,01555 771012,5710
+62223,6,St Luke's Medical Practice,Carluke Community Health Centre,40 Chapel Street,Carluke,ML8 4BA,01555 752150,10662
+62238,10,The Lanark Doctors,Woodstock Medical Centre,Woodstock Road,Lanark,ML11 7DH,01555 665522,12849
+62312,6,Biggar Health Centre,South Croft Road,Biggar,Lanarkshire,ML12 6BE,01899 220383,7147
+62346,2,Kingshill Medical Practice,40 Manse Road,Forth,Lanarkshire,ML11 8AJ,01555 811200,3001
+62510,8,Douglasdale Medical Practice,69 Ayr Road,Douglas,Lanarkshire,ML11 0PX,01555 851226,5320
+62596,4,Dr GD Brough & Partners,30 Lauchope Street,Chapelhall,Airdrie,ML6 8SR,01236 762144,7357
+62609,7,Orchard Medical Centre,41 Ladywell Road,Motherwell,Lanarkshire,ML1 3JX,01698 242700,12666
+62628,1,Blackwood Medical Practice,125 Carlisle Road,Blackwood,Lanarkshire,ML11 9SB,01555 893961,3684
+62632,5,Glebe Medical Centre,Abbeygreen,Lesmahagow,0,ML11 0DB,01555 892328,6553
+62666,3,Dr KEH Mckay & Partners,Houldsworth Centre,Kenilworth Avenue,Wishaw,ML2 7LP,01698 361716,3655
+62671,9,Dr Clark & Partners,Houldsworth Centre,Kenilworth Avenue,Wishaw,ML2 7LP,01698 372201,8982
+62685,2,Dr Tilley & Partners,Motherwell Health Centre,138/144 Windmillhill Street,Motherwell,ML1 1TB,01698 266688,3562
+62690,3,Dr L Bell & Partners,Motherwell Health Centre,138/144 Windmillhill Street,Motherwell,ML1 1TB,01698 266525,2076
+62702,2,Drs Keenan & Fisher,Motherwell Health Centre,138/144 Windmillhill Street,Motherwell,ML1 1TB,01698 264164,3356
+62717,6,Dr A Porte & Partners,Glencairn Medical Practice,"Modyrvale Medical Centre, Toll Street",Motherwell,ML1 2PJ,01698 265566,9338
+62736,3,Dr Blake & Partners,Motherwell Health Centre,138-144 Windmillhill Street,Motherwell,ML1 1TB,01698 263288,4527
+62806,3,Dr NPM Dear & Partners,Newmains Health Centre,17 Manse Road,Newmains,ML2 9AX,01698 384482,3907
+62811,2,Dr AAW Majumdar & Partners,Newmains Health Centre,17 Manse Road,Newmains,ML2 9AX,01698 381074,2083
+62830,3,Manse Road Medical Centre,18 Manse Road,Newmains,0,ML2 9AX,01698 383296,2782
+62844,1,Forestbank Medical Partnership,Harthill Health Centre,24/26 Victoria Street,Harthill,ML7 5QE,01501 751795,3650
+62897,1,Dr George Practice,Shotts Health Centre,36 Station Road,Shotts,ML7 4DS,01501 821544,2301
+62914,3,Dr CM Maule & Partners,Houldsworth Centre,Kenilworth Avenue,Wishaw,ML2 7LP,01698 357766,4417
+62933,9,Logan Practice,Houldsworth Centre,Kenilworth Avenue,Wishaw,ML2 7LP,01698 373341,10131
+62967,4,Branchalwood Medical Practice,Houldsworth Centre,Kenilworth Avenue,Wishaw,ML2 7LP,01698 372888,6029
+62986,3,Dr CP Macfarlane & Partners,Shotts Health Centre,36 Station Road,Shotts,ML7 4DS,01501 822099,4714
+62991,1,Rosehall Surgery,269 Station Road,Dykehead,Shotts,ML7 4AR,01501 824990,2410
+63033,6,Calderside Medical Practice,Blantyre Health Centre,64 Victoria Street,Blantyre,G72 0BS,01698 828868,6997
+63052,4,Dr MV Church & Partners,Blantyre Health Centre,Victoria Street,Blantyre,G72 0BS,01698 826331,5085
+63118,9,Bothwell Medical Centre,3 Uddingston Road,Bothwell,Lanarkshire,G71 8ET,01698 852299,10086
+63231,8,Mavor Medical Practice,Hunter Health Centre,Andrew Street,East Kilbride,G74 1AD,01355 573790,8049
+63245,8,Kirkview Medical Practice,Hunter Community Health Centre,Andrew Street,East Kilbride,G74 1AD,01355 575630,7292
+63250,5,Kittoch Medical Practice,Hunter Health Centre,Andrew Street,East Kilbride,G74 1AD,01355 271080,7471
+63264,5,Huntergreen Medical Practice,Hunter Health Centre,Andrew Street,East Kilbride,G74 1AD,01355 578030,7248
+63279,7,Dr I A Hathorn & Partners,Greenhills Health Centre,20 Greenhills Square,East Kilbride,G75 8TT,01355 236331,10127
+63283,3,Kilbryde Medical Practice,Hunter Health Community Centre,Andrew Street,East Kilbride,G74 1AD,01355 906644,4075
+63298,4,Calderglen Medical Practice,Hunter Health Centre,Andrew Street,East Kilbride,G74 1AD,01355 572770,5993
+63301,9,Dr T M Bonnes & Partners,The Murray Surgery,50 The Murray Road,East Kilbride,G75 0RT,01355 225374,10680
+63320,1,Dr H Mcneil,Alison Lea Medical Centre,Pollock Lane,Calderwood,G74 3HW,01355 261666,2974
+63334,3,Auchinraith Medical Practice,Blantyre Health Centre,64 Victoria Street,Blantyre,G72 0BS,01698 823260,4955
+63419,5,Burnbank Medical Centre,18 Burnbank Centre,Hamilton,Lanarkshire,ML3 0NQ,01698 286555,7873
+63423,7,Dr M M Herbert & Partners,Portland Park Medical Centre,51 Portland Park,Hamilton,ML3 7JY,01698 284353,6617
+63438,7,Dr J Fulton & Partners,Wellhall Medical Centre,4 Hillhouse Road,HAMILTON,ML3 9TZ,01698 285818,10811
+63442,4,Oak Lodge,32 Miller Street,Hamilton,Lanarkshire,ML3 7EN,01698 282350,7017
+63457,4,Douglas Street Surgery,1 Douglas Street,Hamilton,Lanarkshire,ML3 0DR,01698 286262,7467
+63461,4,Dr K G Irvine & Partners,53 Burnbank Road,Hamilton,Lanarkshire,ML3 9AQ,01698 281407,7598
+63476,5,Dr SL Russell & Partners,Cadzow Health Centre,187 Low Waters Road,Hamilton,ML3 7QQ,01698 327028,5031
+63481,4,Dr JM Simpson & Partners,Low Waters Medical Centre,11 Mill Road,Hamilton,ML3 8AA,01698 283626,7345
+63508,6,Calderlea Surgery,Alison Lea Medical Centre,Calderwood,East Kilbride,G74 3HW,01355 578009,5820
+63512,1,Dr N Balkrishna,4-6 Gallowhill,Larkhall,Lanarkshire,ML9 1EX,01698 884082,1749
+63527,4,The Surgery,75 Union Street,Larkhall,Lanarkshire,ML9 1DZ,01698 882105,9803
+63546,5,Macinnes Medical Centre,60/64 High Street,Newarthill,Lanarkshire,ML1 5JU,01698 860246,7857
+63616,9,The Avon Medical Centre,1 Academy Street,Larkhall,Lanarkshire,ML9 2BJ,01698 552930,12223
+63724,3,Strathaven Medical Practice,Strathaven Health Centre,The Ward,Strathaven,ML10 6AS,01357 522993,5532
+63739,7,Avondale Medical Practice,Strathaven Medical Centre,The Ward,Strathaven,ML10 6AS,01357 529595,6276
+63813,7,Lincluden Medical Centre,82 Bellshill Road,Uddingston,0,G71 7NE,01698 813873,8065
+63828,6,Old Mill Surgery,Viewpark Health Centre,119 Burnhead Street,"Viewpark, Lanarkshire",G71 5SU,01698 815111,8666
+63832,3,Viewpark Health Centre,119 Burnhead Street,Viewpark,Uddingston,G71 5RR,01698 813753,2876
+63902,1,Calder Valley Surgery,Houldsworth Centre,Kenilworth Avenue,"Wishaw, Lanarkshire",ML2 7LP,01698 356420,1966
+63917,4,Medwyn Medical Practice,The Health Centre,7 Biggar Road,Carnwath,ML11 8HJ,01555 840214,5881
+65931,1,Challenging Patients Service,c/o Blantyre Health Centre,Victoria Street,Blantyre,G72 0BS,01698 727539,26
+LOTHIAN,878, , , , , , , 
+70037,3,"Drs Ayles,  Rigg & Seagrave",Hermitage Medical Practices,5-6 Hermitage Terrace,Edinburgh,EH10 4RP,0131 447 6277,3461
+70075,8,Braids Medical Practice,6 Camus Avenue,Edinburgh,0,EH10 6QT,0131 445 5999,9633
+70094,9,The Green Practice,Stockbridge Health Centre,1 India Place,Edinburgh,EH3 6EH,0131 260 9227,8310
+70107,3,Leven Medical Practice,Tollcross Health Centre,Ponton Street,Edinburgh,EH3 9QQ,0131 536 9700,6241
+70111,10,Parkgrove & East Craigs Medical Centre,10 Bughtlin Market,East Craigs,Edinburgh,EH12 8XP,0131 339 6670,10389
+70126,5,Southfield Medical Practice,132 Mountcastle Drive South,Edinburgh,0,EH15 3LL,0131 549 7340,3511
+70131,11,Colinton Surgery,296b Colinton Road,Edinburgh,0,EH13 0LB,0131 441 4555,11091
+70164,6,Ferniehill Surgery,8 Ferniehill Road,Edinburgh,0,EH17 7AB,0131 664 2166,6642
+70179,8,Leith Walk Surgery,60 Leith Walk,Edinburgh,0,EH6 5HB,0131 554 6471,8245
+70198,7,Niddrie Medical Practice,Craigmillar Medical Centre,106 Niddrie Mains Road,Edinburgh,EH16 4DT,0131 536 9595,3155
+70215,11,Craigmillar Medical Group,Craigmillar Medical Centre,106 Niddrie Mains Road,Edinburgh,EH16 4DT,0131 322 2111,8737
+70220,14,Ladywell Medical Centre (West),Ladywell Road,Edinburgh,0,EH12 7TB,0131 334 3602,11037
+70234,9,The Long House Surgery,The Long House,73 East Trinity Road,Edinburgh,EH5 3EL,0131 552 4919,7941
+70253,12,Whinpark Medical Practice,Whinpark Medical Centre,6 Saughton Road,Edinburgh,EH11 3RA,0131 455 7999,10813
+70268,5,Brunton Place Surgery,9 Brunton Place,Edinburgh,0,EH7 5EG,0131 557 5545,8251
+70272,6,Dr Steve Allan & Partners,Bangholm Medical Centre,Bangholm Loan,Edinburgh,EH5 3AH,0131 552 7676,8345
+70291,7,Inchpark Surgery,10 Marmion Crescent,Edinburgh,0,EH16 5QU,0131 666 2121,5685
+70319,10,West End Medical Practice,36 Manor Place,Edinburgh,0,EH3 7EB,0131 225 5220,9182
+70323,12,Bruntsfield Medical Practice,11 Forbes Road,Edinburgh,0,EH10 4EY,0131 228 6081,12015
+70357,5,Inverleith Medical Practice,43 Inverleith Row,Edinburgh,0,EH3 5PY,0131 552 3369,4267
+70361,10,Ladywell Medical Centre (East),26 Featherhall Avenue,Edinburgh,0,EH12 7UN,0131 334 5000,10906
+70376,7,Liberton Medical Group,65 Liberton Gardens,Edinburgh,0,EH16 6JT,0131 664 3050,6780
+70381,12,Mackenzie Medical Centre,20 West Richmond Street,Edinburgh,0,EH8 9DX,0131 667 2955,6643
+70408,8,Dr Wilson & Partners,Stockbridge Health Centre,1 India Place,Edinburgh,EH3 6EH,0131 225 9191,9341
+70412,8,Grange Medical Group,1 Beaufort Road,Edinburgh,0,EH9 1AG,0131 447 1646,7516
+70427,10,Milton Surgery,132 Mountcastle Drive South,Edinburgh,0,EH15 3LL,0131 549 7300,7653
+70451,3,Meadows Medical Practice,9 Brougham Place,Edinburgh,0,EH3 9HW,0131 229 7709,4123
+70470,4,Dalkeith Road Medical Practice,145 Dalkeith Road,Edinburgh,0,EH16 5HQ,0131 667 1289,3609
+70499,5,Dr Gray & Partners,Bellevue Medical Centre,26 Huntingdon Place,Edinburgh,EH7 4AT,0131 556 8196,6310
+70501,7,Murrayfield Medical Practice,13b Riversdale Crescent,Edinburgh,0,EH12 5QX,0131 337 6151,6881
+70516,4,Gracemount Medical Practice,24 Gracemount Drive,Edinburgh,0,EH16 6RN,0131 664 2377,7437
+70521,3,The Hopetoun Practice,Bellevue Medical Centre,26 Huntingdon Place,Edinburgh,EH7 4AT,0131 556 2642,6846
+70535,5,Blackhall Medical Centre,51 Hillhouse Road,Edinburgh,0,EH4 3TH,0131 332 7696,6550
+70569,9,Restalrig Park Medical Centre,40 Alemoor Crescent,Edinburgh,0,EH7 6UJ,0131 454 2110,6068
+70573,10,Crewe Medical Centre,135 Boswall Parkway,Edinburgh,0,EH5 2LY,0131 552 5544,9309
+70588,5,The Southern Medical Group,322 Gilmerton Road,Edinburgh,0,EH17 7PR,0131 664 2148,7139
+70592,15,University Health Service,6 Bristo Square,Edinburgh,0,EH8 9AL,0131 650 2777,21786
+70605,6,Durham Road Medical Group,25 Durham Road,Edinburgh,0,EH15 1NY,0131 669 1153,4936
+70610,10,Craiglockhart Medical Group,Craiglockhart Surgery,161 Colinton Road,Edinburgh,EH14 1BE,0131 455 8494,9470
+70639,12,Dr L Taylor & Partners,Conan Doyle Medical Centre,4 Nether Liberton Lane,Edinburgh,EH16 5TY,0131 666 5160,10172
+70643,4,"Drs Donaldson, Morris, Larkin & Gibson",Hermitage Medical Practice,5-6 Hermitage Terrace,Edinburgh,EH10 4RP,0131 447 6277,3493
+70658,8,The Baronscourt Medical Partnership,89 Northfield Broadway,Edinburgh,0,EH8 7RX,0131 657 5444,7251
+70662,17,Muirhouse Medical Group,Muirhouse Medical Centre,1 Muirhouse Avenue,Edinburgh,EH4 4PL,0131 537 4343,13271
+70709,3,Davidson's Mains Medical Centre,5 Quality Street,Davidsons Mains,Edinburgh,EH4 5BP,0131 336 2291,5433
+70747,6,Summerside Medical Practice,Summerside Medical Centre,29b Summerside Place,Edinburgh,EH6 4NY,0131 554 3533,6343
+70766,1,Marchmont Medical Practice,10 Warrender Park Terrace,Edinburgh,0,EH9 1JA,0131 229 6314,2446
+70785,11,St Triduana's Medical Practice,St Triduanas Medical Practice,54 Moira Park,Edinburgh,EH7 6RU,0131 657 3341,11293
+70790,7,Morningside Medical Practice,2 Morningside Place,Edinburgh,0,EH10 5ER,0131 452 8406,8008
+70841,4,St Leonard's Medical Centre,145 Pleasance,Edinburgh,0,EH8 9RU,0131 668 4547,6348
+70893,3,Southside Surgery,17 Bernard Terrace,Edinburgh,0,EH8 9NU,0131 667 2240,5377
+70906,3,"Drs Sharpe, Putta & Burns Practice",Sighthill Health Centre,Calder Road,Edinburgh,EH11 4AU,0131 537 7040,3087
+70911,12,Sighthill Green Medical Practice,Sighthill Health Centre,Calder Road,Edinburgh,EH11 4AU,0131 537 7060,8710
+70925,4,Riccarton General Practice,Heriot-Watt University Medical Centre,Riccarton,Edinburgh,EH14 4AS,0131 451 3010,9933
+70930,12,The Pentlands Medical Practice,Pentland Medical Centre,44 Pentland View,Currie,EH14 5QB,0131 449 2142,12872
+70959,1,Dr Guy Johnson and Dr Helga Rhein,Dr G Johnson & Dr H  Rhein,Sighthill Health Centre,Calder Road,EH11 4AU,0131 537 7030,1551
+70963,4,Edinburgh Access Practice,The Access Point,17&23 Leith Street,Edinburgh,EH1 3AT,0131 240 2810,593
+70978,10,Wester Hailes Medical Practice,Wester Hailes Healthy Living Centre,30 Harvesters Way,Edinburgh,EH14 3JF,0131 453 9250,7263
+70982,5,The Victoria Practice,Leith Community Treatment Centre,12 Junction Place,Edinburgh,EH6 5JA,0131 465 2950,3530
+70997,7,Slateford Medical Practice,27 Gorgie Park Close,Edinburgh,0,EH14 1NQ,0131 442 8700,9138
+71011,3,Polwarth Surgery,72 Polwarth Gardens,Edinburgh,0,EH11 1LL,0131 229 5914,5001
+71025,6,Murrayfield Medical Centre,35 Saughton Crescent,Edinburgh,0,EH12 5SS,0131 337 2166,7265
+71082,9,Springwell Medical Group,Springwell Medical Centre,39 Ardmillan Terrace,Edinburgh,EH11 2JL,0131 347 1860,10812
+71097,7,The Firrhill Medical Centre,167 Colinton Mains Drive,Edinburgh,0,EH13 9AF,0131 441 3119,4969
+71114,11,Leith Mount Surgery,2 Lindsay Street,Edinburgh,0,EH6 4EG,0131 554 2958,10727
+71129,9,Cramond Medical Practice,2 Cramond Glebe Road,Edinburgh,0,EH4 6NS,0131 336 5432,8877
+71171,1,Challenging Behaviour General Practice,Boroughloch Medical Centre,1 Meadow Place,Edinburgh,EH9 1JZ,0131 229 7529,39
+71222,6,Gilmore Medical Practice,Tollcross Health Centre,Ponton Street,Edinburgh,EH3 9QQ,0131 536 9800,7283
+71326,10,The Group Practice - Eyre,31 Eyre Crescent,Edinburgh,0,EH3 5EU,0131 556 8842,9703
+71364,6,Mill Lane Surgery,4 Mill Lane,Edinburgh,0,EH6 6TL,0131 554 1274,6061
+71379,2,Boroughloch Medical Practice,1 Meadow Place,Edinburgh,0,EH9 1JZ,0131 229 7529,3301
+71398,7,Links Medical Centre,4 Hermitage Place,Edinburgh,0,EH6 8BW,0131 554 1036,5454
+76000,8,Tyne Medical Practice,Newton Port Surgery,Newton Port,Haddington,EH41 3NF,01620 823183,5924
+76029,5,Gullane Medical Practice,Gullane Medical Centre,Hamilton Road,Gullane,EH31 2HP,01620 842171,5206
+76033,8,Riverside Medical Practice,Musselburgh Primary Care Centre,Inveresk Road,Musselburgh,EH21 7BP,0131 446 4171,9752
+76048,5,Eskbridge Medical Practice,Musselburgh Primary Care Centre,Inveresk Road,Musselburgh,EH21 7BP,0131 446 4030,8835
+76052,11,The Harbours Medical Practice,The Health Centre,Avenue Road,"Cockenzie, East Lothian",EH32 0JU,01875 811501,9977
+76071,5,Lammermuir Medical Practice,Newton Port Surgery,Newton Port,Haddington,EH41 3NF,0162 082 5051,4617
+76086,5,Whitesands Medical Practice,Dunbar Medical Centre,Queens Road,Dunbar,EH42 1EE,01368 863226,4483
+76103,5,The Orchard Medical Practice,Newton Port Surgery,Newton Port,Haddington,EH41 3NF,01620 825497,4717
+76122,8,Prestonpans Group Practice,Prestonpans Health Centre,Preston Road,Prestonpans,EH32 9QS,01875 810736,8677
+76137,9,North Berwick Group Practice,North Berwick Health Centre,54 St. Baldred's Road,North Berwick,EH39 4PU,01620 892169,8214
+76141,10,Inveresk Medical Practice,Musselburgh Primary Care Centre,Inveresk Road,Musselburgh,EH21 7BP,0131 446 4003,8780
+76161,4,Lauderdale Medical Practice,Dunbar Medical Centre,Queens Road,Dunbar,EH42 1EE,01368 861435,3627
+76180,3,Cromwell Harbour Medical Practice,Dunbar Medical Centre,Queens Road,Dunbar,EH42 1EE,01368 861401,3957
+76194,3,East Linton Surgery,The Surgery,Station Road,East Linton,EH40 3DP,01620 860204,2695
+76211,5,Ormiston Medical Practice,Tynemount Road,Ormiston,0,EH35 5AB,01875 610248,3190
+76226,12,Tranent Medical Practice,The Health Centre,Loch Road,Tranent,EH33 2JX,01875 610697,14092
+77036,8,Eastfield Medical Practice,Eastfield Farm Road,Penicuik,0,EH26 8EZ,01968 675576,5356
+77055,8,Dalhousie Medical Practice,The Health Centre,109-111 High Street,Bonnyrigg,EH19 2ET,0131 537 9844,8118
+77074,4,Quarryfoot Practice,Health Centre,109-111 High Street,Bonnyrigg,EH19 2ET,0131 537 9828,5104
+77089,1,Ratho Surgery,11 Baird Road,Ratho,Newbridge,EH28 8RA,0131 333 1062,2240
+77093,6,Roslin Medical Practice,122 Penicuik Road,Roslin,0,EH25 9NT,0131 440 2043,5567
+77106,13,Newbattle Medical Practice,Blackcot,Mayfield,Midlothian,EH22 4AA,0131 663 1051,16153
+77111,15,Penicuik Medical Practice,The Health Centre,37 Imrie Place,Penicuik,EH26 8LF,01968 672612,11502
+77125,6,Pathhead Medical Practice,Pathhead Medical Centre,210 Main Street,Pathhead,EH37 5PP,01875 320302,5265
+77159,7,Newbyres Medical Group,15 Hunterfield Road,Gorebridge,0,EH23 4TP,01875 820405,8675
+77197,6,Dalkeith Medical Practice,The Health Centre,24-26 St Andrew Street,Dalkeith,EH22 1AP,0131 561 5500,9734
+77200,3,Danderhall Medical Practice,The Robertson Medical Centre,85 Newton Church Street,Danderhall,EH22 1LX,0131 654 1079,3110
+77271,8,Strathesk Medical Group,Health Centre,109-111 High Street,Bonnyrigg,EH19 2ET,0131 537 9977,8621
+77286,4,"Loanhead Practice, Sutherland House",209 Mayburn Avenue,Loanhead,0,EH20 9ER,0131 440 0149,4817
+78010,8,Carmondean Medical Group,Carmondean Centre,Livingston,West Lothian,EH54 8PY,01506 836300,9606
+78024,10,East Calder Medical Practice,East Calder Health Centre,147 Main Street,East Calder,EH53 0EW,01506 882882,11479
+78043,2,Breich Valley Medical Practice,Fauldhouse Partnership Centre,Lanrigg Road,Fauldhouse,EH47 9JD,01501 773020,4881
+78062,8,Ferguson Medical Practice,The Strathbrock Partnership Centre,189a West Main Street,Broxburn,EH52 5LH,01506 771700,6056
+78077,6,Newland Medical Practice,Bathgate Primary Care Centre,Whitburn Road,Bathgate,EH48 2SS,01506 655155,8452
+78109,3,Braehead Medical Practice,Fauldhouse Partnership Centre,Lanrigg Road,Fauldhouse,EH47 9JD,01501 773045,3064
+78113,7,Linden Medical Practice,Strathbrock Partnership Centre,189a West Main Street,Broxburn,EH52 5LH,01506 771771,6531
+78128,8,Kingsgate Medical Practice,Bathgate Primary Care Centre,Whitburn Road,Bathgate,EH48 2SS,01506 653134,8610
+78132,7,Simpson Medical Group,Bathgate Primary Care Centre,Whitburn Road,Bathgate,EH48 2SS,01506 654444,8474
+78147,7,West Calder Medical Practice,West Calder Medical Centre,65 West End,West Calder,EH55 8EJ,01506 874300,9028
+78166,11,Linlithgow Group Medical Practice,Linlithgow Health Centre,288 High Street,Linlithgow,EH49 7ER,01506 670027,15865
+78171,11,South Queensferry Medical Practice,41 The Loan,South Queensferry,0,EH30 9HA,0131 537 4407,11376
+78185,5,Blackridge Health Centre,Fleming Place,Blackridge,0,EH48 3SS,01501 751238,2609
+78190,8,Whitburn Group Medical Practice,Whitburn Health Centre,1 Weavers Lane,Whitburn,EH47 0SD,01501 740297,12042
+78241,7,Armadale Group Practice,18 North Street,Armadale,West Lothian,EH48 3QB,01501 730432,13291
+78255,8,Howden Health Centre,Howden Road West,Livingston,West Lothian,EH54 6TP,01506 423800,12419
+78260,10,Dedridge Medical Group,Dedridge Health Centre,"Nigel Rise, Dedridge",Livingston,EH54 6QQ,01506 414586,10336
+78306,8,The Wood Medical Practice,The Strathbrock Partnership Centre,189a West Main Street,Broxburn,EH52 5LH,01506 771800,7511
+78311,9,The Craigshill Partnership,Craigshill Health Centre,Craigshill Road,Livingston,EH54 5DY,01506 432621,8613
+78325,7,Deans & Eliburn Medical Practice,Carmondean Centre,Livingston,West Lothian,EH54 8PY,01506 836 333,11492
+78330,7,Ashgrove Group Practice,Ashgrove,Blackburn,West Lothian,EH47 7LL,01506 657130,6758
+78344,8,Murieston Medical Practice,Hamilton Square,Murieston South,Livingston,EH54 9JZ,01506 461464,5016
+78359,5,Almond Group Practice,Winchburgh Health Centre,Niddry Road,Winchburgh,EH52 6RX,01506 890210,2968
+ORKNEY,33, , , , , , , 
+38012,8,Skerryvore Practice,New Scapa Road,Kirkwall,Orkney,KW15 1BX,01856 888240,7949
+38027,4,Stromness Surgery,John Street,Stromness,Orkney,KW16 3AD,01856 850205,3015
+38051,2,Daisy Villa,St. Margaret's Hope,Orkney,0,KW17 2SN,01856 831206,1453
+38205,4,Heilendi Practice,Scapa Crescent,Kirkwall,Orkney,KW15 1RL,01856 872388,3850
+38210,4,Dounby Surgery,Dounby,Orkney,0,KW17 2HH,01856 771209,2779
+38239,11,Orcades Practice,Orkney Health and Care,"Attic Offices, Balfour Hospital",Kirkwall,KW15 1BH,01856 888022,1886
+SHETLAND,36, , , , , , , 
+39015,3,Yell Health Centre,Reafirth,Mid Yell,Shetland,ZE2 9BX,01957 702127,1060
+39020,3,Whalsay Health Centre,Symbister,Whalsay,Shetland,ZE2 9AE,01806 566219,1106
+39034,1,Hillswick Health Centre,West Ayre,Hillswick,Shetland,ZE2 9RW,01806 503277,778
+39049,2,Brae Medical Practice,Brae,Shetland,0,ZE2 9QJ,01806 522543,2492
+39053,3,Walls Health Centre,Walls,Shetland,0,ZE2 9PS,01595 809352,746
+39068,4,Bixter Health Centre,Bixter,Shetland,0,ZE2 9NA,01595 810202,1167
+39072,2,Levenwick Medical Practice,Gord,Levenwick,Shetland,ZE2 9HX,01950 461222,2677
+39087,6,Scalloway Health Centre LLP,Scalloway,Shetland,0,ZE1 0UH,01595 880219,3558
+39091,11,Lerwick Health Centre,South Road,Lerwick,Shetland,ZE1 0RZ,01595 693201,8894
+39161,1,Unst Health Centre,Baltasound,Unst,0,ZE2 9DY,01957 711318,598
+TAYSIDE,377, , , , , , , 
+10002,6,Muirhead Medical Centre,Liff Road,Muirhead,0,DD2 5NH,01382 580264,7427
+10017,10,The Blue Practice,Crieff Medical Centre,King Street,Crieff,PH7 3SA,01764 652283,6855
+10036,7,Aberfeldy And Kinloch Rannoch Medical Practice,Taybridge Road,Aberfeldy,Perthshire,PH15 2BL,01887 820366,4541
+10106,6,Grove Health Centre,129 Dundee Road,Broughty Ferry,Dundee,DD5 1DU,01382 778881,5890
+10125,3,Alyth Health Centre,New Alyth Road,Alyth,0,PH11 8EQ,01828 632317,4122
+10182,9,Arbroath Medical Centre,7 Hill Place,Arbroath,0,DD11 1AD,01241 431144,9542
+10233,5,Abbey Health Centre,East Abbey Street,Arbroath,0,DD11 1EN,01241 872692,6290
+10286,3,"East Practice, Springfield Medical Centre",30 Ponderlaw Street,Arbroath,0,DD11 1ES,01241 870311,4352
+10322,5,"West Practice, Springfield Medical Centre",30 Ponderlaw Street,Arbroath,0,DD11 1ES,01241 870307,7004
+10361,8,St Margaret's Health Centre,St Margarets Drive,Auchterarder,0,PH3 1JH,01764 662614,9283
+10407,9,Ardblair Medical Practice,Ann Street,Blairgowrie,Perthshire,PH10 6EF,01250 872033,7816
+10445,3,Strathmore Surgery,Jessie Street,Blairgowrie,Perthshire,PH10 6BT,01250 872552,3247
+10498,3,Brechin Medical Practice,Brechin Health Centre,Infirmary Street,Brechin,DD9 7AN,01356 624411,9410
+10553,2,Bridge Of Earn Surgery,Main Street,Bridge Of Earn,Perth,PH2 9PN,01738 812000,3240
+10638,13,Carnoustie Medical Group,Parkview  Primary Care Centre,Barry Road,Carnoustie,DD7 7RB,01241 859888,13085
+10708,3,Comrie Medical Centre,Strowan Road,Comrie,Perthshire,PH6 2EP,01764 670217,2448
+10751,2,Coupar Angus Medical Centre,Candlehouse Lane,Coupar Angus,Perthshire,PH13 9DD,01828 627318,2854
+10799,3,Coupar Angus Medical Centre,Candlehouse Lane,Coupar Angus,Perthshire,PH13 9DD,01828 627312,2988
+10835,5,The Red Practice,Crieff Medical Centre,King Street,Crieff,PH7 3SA,01764 652456,4216
+11005,3,Park Avenue Medical Centre,Park Avenue,Dundee,0,DD4 6PP,01382 462222,5164
+11058,4,Tay Court Surgery,50 South Tay Street,Dundee,0,DD1 1PF,01382 228228,7062
+11096,5,Ancrum Medical Centre,12 Ancrum Road,Dundee,0,DD2 2HZ,01382 669500,4482
+11128,10,Taybank Medical Centre,10 Robertson Street,Dundee,0,DD4 6EL,01382 461588,8869
+11166,5,Coldside Medical Practice,129 Strathmartine Road,Dundee,0,DD3 8DB,01382 880900,8194
+11171,11,Westgate Medical Practice,Westgate Health Centre,Charleston Drive,Dundee,DD2 4AD,01382 668189,10504
+11289,7,Princes Street Surgery,155 Princes Street,Dundee,0,DD4 6DG,01382 461090,7028
+11306,7,Broughty Family Healthcare,103 Brown Street,Broughty Ferry,Dundee,DD5 1EP,01382 731331,9123
+11363,9,Hawkhill Medical Centre,Hawkhill,Dundee,0,DD1 5LA,01382 669589,11523
+11382,7,Family Medical Group,"Green Wing, Wallacetown Health Centre",Lyon Street,Dundee,DD4 6RB,01382 459519,10001
+11414,4,Ryehill Medical Practice,St Peter Street,Dundee,0,DD1 4JH,01382 644466,5110
+11486,6,Erskine Practice,Arthurstone Medical Centre,39 Arthurstone Terrace,Dundee,DD4 6QY,01382 458333,7140
+11645,11,Mill Practice,Arthurstone Medical Practice,39 Arthurstone Terrace,Dundee,DD4 6QY,01382 456700,9114
+11650,5,Terra Nova Medical Practice LLP,Terra Nova House,43 Dura Street,Dundee,DD4 6SW,01382 451100,6024
+11823,8,Downfield Surgery,325 Strathmartine Road,Dundee,0,DD3 8NE,01382 812111,8108
+11861,4,Hillbank Health Centre,1a Constitution Street,Dundee,0,DD3 6NF,01382 221976,8531
+11931,7,Maryfield Medical Centre,28 Mains Loan,Dundee,0,DD4 7AA,01382 462292,7737
+12210,8,Ancrum Medical Centre,12 Ancrum Road,Dundee,0,DD2 2HZ,01382 669316,3329
+12281,7,Nethergate Medical Centre,2 Tay Square,Dundee,0,DD1 1PB,01382 221527,8956
+12831,2,Lochee Health Centre,1 Marshall Street,Dundee,0,DD2 3BR,01382 611283,4729
+12901,3,Whitfield Surgery,The Crescent,71 Lothian Crescent,Dundee,DD4 0HJ,01382 432030,2010
+12991,1,Stobswell Medical Centre,163 Albert Street,Dundee,0,DD4 6PX,01382 461363,2442
+13049,4,Craigvinean Surgery,Little Dunkeld,Dunkeld,0,PH8 0AD,01350 727269,3870
+13091,2,Edzell Health Centre,High Street,Edzell,0,DD9 7TA,01356 648209,2062
+13142,3,The Carse Medical Practice,The Rowans,High Street,Errol,PH2 7QJ,01821 642248,2798
+13195,4,Ravenswood Surgery,New Road,Forfar,0,DD8 2AE,01307 463558,3391
+13231,8,Academy Medical Centre,Academy Street,Forfar,0,DD8 2HA,01307 462316,10744
+13284,5,Lour Road Group Practice,3 Lour Road,Forfar,0,DD8 2AS,01307 463122,5930
+13335,2,Friockheim Health Centre,Westgate,Friockheim,0,DD11 4TX,01241 828444,3348
+13369,3,Invergowrie Medical Practice,30 Errol Road,Invergowrie,0,DD2 5AD,01382 562271,1771
+13481,7,St Serf's Practice,Loch Leven Health Centre,Muirs,Kinross,KY13 8FP,01577 862112,9503
+13496,3,Orwell Practice,Loch Leven Health Centre,Muirs,Kinross,KY13 8FP,01577 862112,3114
+13532,7,Kirriemuir Medical Practice,Tannage Brae,Kirriemuir,Angus,DD8 4ES,01575 573333,8674
+13571,9,Monifieth Health Centre,Victoria Street,Monifieth,0,DD5 4LX,01382 534301,9081
+13621,6,Townhead Practice,Links Health Centre,Frank Wood Way,Montrose,DD10 8TY,01674 676161,6737
+13660,4,Castlegait Surgery,Links Health Centre,Frank Wood Way,Montrose,DD10 8TY,01674 672554,4748
+13706,6,Annat Bank Practice,Links Health Centre,Frank Wood Way,Montrose,DD10 8TY,01674 673400,5986
+13848,6,Kings Practice,Glover Street Medical Centre,133 Glover Street,Perth,PH2 0JB,01738 621844,6294
+13891,7,"Green Practice, Whitefriars Surgery",Whitefriars Street,Perth,0,PH1 1PP,01738 627912,8900
+13941,7,Victoria Practice,Glover Street Medical Centre,133 Glover Street,Perth,PH2 0JB,01738 639748,10576
+13975,3,"Mauve Practice, Drumhar Health Centre",North Methven Street,Perth,0,PH1 5PD,01738 622421,3806
+14037,13,The Taymount Surgery,1 Taymount Terrace,Perth,0,PH1 1NU,01738 627117,12917
+14249,8,"Red Practice, Whitefriars Surgery",Whitefriars Street,Perth,0,PH1 1PP,01738 625842,6562
+14291,7,Perth City Medical Centre,Caledonian Road,Perth,0,PH2 8HH,01738 628234,9109
+14342,5,"Yellow Practice, Drumhar Health Centre",North Methven Street,Perth,0,PH1 5PD,01738 621726,6508
+14501,6,Atholl Medical Centre,Ferry Road,Pitlochry,Perthshire,PH16 5FG,01796 472558,4779
+14569,3,Stanley Medical Centre,43 Shielhill Place,Stanley,Perthshire,PH1 4NN,01738 828294,3874
+WESTERN ISLES,30, , , , , , , 
+90031,9,The Group Practice,Springfield Road,Stornoway,Isle Of Lewis,HS1 2PS,01851703145,7981
+90098,2,North Harris Medical Practice,The Surgery,Tarbert,Isle Of Harris,HS3 3BG,01859 502421,1220
+90101,2,South Harris Medical Practice,Ferry Road,Leverburgh,Isle Of Harris,HS5 3UA,01859 520278,572
+90115,2,North Uist Medical Practice,The Surgery,Lochmaddy,Isle Of North Uist,HS6 5AE,01876 500333,1372
+90120,2,Benbecula Medical Practice,Sorelle Lodge Surgery,Griminish,Isle Of Benbecula,HS7 5QA,01870 602215,2314
+90134,1,South Uist Medical Practice,Daliburgh,Isle Of South Uist,Isle Of South Uist,HS8 5SS,01878 700302,1037
+90149,1,Barra Medical Practice,Clach Mhile Surgery,Castlebay,Isle Of Barra,HS9 5XD,01871 810282,1171
+90172,4,Broadbay Medical Practice,16 Francis Street,Stornoway,0,HS1 2XB,01851 703588,6077
+90204,7,Langabhat Medical Practice,Leurbost,Lochs,Isle of Lewis,HS2 9JP,01851860222,5154
+Grand Total,4901,,,,,,,5634102
